@@ -1,0 +1,79 @@
+section_id,subject_code,subject_name,weekly,semester_total,held_by_today,remaining_from_today,max_total_absences_75,max_total_absences_90
+II-BME,21BMC202T,Biomedical Signals and Systems,3,39,12,27,9,3
+II-BME,21BMC203J,Electric and Electronic Circuits,3,39,12,27,9,3
+II-BME,21BMC203J|21BMC204J,Electric and Electronic Circuits | Digital Logic for Medical Systems,4,52,16,36,13,5
+II-BME,21BMC204J,Digital Logic for Medical Systems,3,39,12,27,9,3
+II-BME,21LEM201T,Professional Ethics,1,13,4,9,3,1
+II-BME,21LEM202T,Universal Human Values-II,3,39,12,27,9,3
+II-BME,21MAB201T,Transforms and Boundary Value Problems,4,52,16,36,13,5
+II-BME,21PDH201T,Social Engineering,2,26,8,18,6,2
+II-BME,21PDM201L,Verbal Reasoning,3,39,12,27,9,3
+II-BME,21PYS202T,Medical Physics,3,39,12,27,9,3
+II-ECE-DS-A,21CSS201T,Computer Organization and Architecture,4,52,16,36,13,5
+II-ECE-DS-A,21ECC201T,Solid State Devices,3,39,12,27,9,3
+II-ECE-DS-A,21ECC203T,Digital Logic Design,3,39,12,27,9,3
+II-ECE-DS-A,21ECC205T,Electromagnetic Theory and Interference,3,39,12,27,9,3
+II-ECE-DS-A,21ECC211L,Devices and Digital IC Laboratory,4,52,16,36,13,5
+II-ECE-DS-A,21LEM201T,Professional Ethics,1,13,4,9,3,1
+II-ECE-DS-A,21LEM202T,Universal Human Values-II,3,39,12,27,9,3
+II-ECE-DS-A,21MAB201T,Transforms and Boundary Value Problems,4,52,16,36,13,5
+II-ECE-DS-A,21PDH209T,Social Engineering,2,26,8,18,6,2
+II-ECE-DS-A,21PDM201L,Verbal Reasoning,3,39,12,27,9,3
+II-ECE-DS-B,21CSS201T,Computer Organization and Architecture,4,52,16,36,13,5
+II-ECE-DS-B,21ECC201T,Solid State Devices,3,39,12,27,9,3
+II-ECE-DS-B,21ECC203T,Digital Logic Design,3,39,12,27,9,3
+II-ECE-DS-B,21ECC205T,Electromagnetic Theory and Interference,3,39,12,27,9,3
+II-ECE-DS-B,21ECC211L,Devices and Digital IC Laboratory,4,52,16,36,13,5
+II-ECE-DS-B,21LEM201T,Professional Ethics,1,13,4,9,3,1
+II-ECE-DS-B,21LEM202T,Universal Human Values-II,3,39,12,27,9,3
+II-ECE-DS-B,21MAB201T,Transforms and Boundary Value Problems,4,52,16,36,13,5
+II-ECE-DS-B,21PDH209T,Social Engineering,2,26,8,18,6,2
+II-ECE-DS-B,21PDM201L,Verbal Reasoning,3,39,12,27,9,3
+III-BME,21BMC301J,Biomedical Signal Processing,5,65,20,45,16,6
+III-BME,21BMC302J,Microcontrollers and Its Application in Medicine,5,65,20,45,16,6
+III-BME,21BMC303T,Principles of Medical Imaging,3,39,12,27,9,3
+III-BME,21BME266T,Biometrics,3,39,12,27,9,3
+III-BME,21ECO103T,Modern wireless communication system,3,39,12,27,9,3
+III-BME,21GNP301L,Community Connect,2,26,8,18,6,2
+III-BME,21LEM301T,Indian Art Form,1,13,4,9,3,1
+III-BME,21MAB301T,Probability and Statistics,4,52,16,36,13,5
+III-BME,21PDM301L,Analytical and Logical Thinking Skills,3,39,12,27,9,3
+III-ECE-A,21CSO355T,Machine learning for all,3,39,12,27,9,3
+III-ECE-A,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",4,52,16,36,13,5
+III-ECE-A,21ECC303T,VLSI Design and Technology,3,39,12,27,9,3
+III-ECE-A,21ECC311L,VLSI Design/ Microprocessor Laboratory,4,52,16,36,13,5
+III-ECE-A,21ECE468T,System and Network on Chip,3,39,12,27,9,3
+III-ECE-A,21GNP301L,Community connect,2,26,8,18,6,2
+III-ECE-A,21LEM301T,Indian Art Form,1,13,4,9,3,1
+III-ECE-A,21MAB302T,Discrete Mathematics,4,52,16,36,13,5
+III-ECE-A,21PDM301L,Analytical and logical thinking skills,3,39,12,27,9,3
+III-ECE-B,21CSO355T,Machine learning for all,3,39,12,27,9,3
+III-ECE-B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",4,52,16,36,13,5
+III-ECE-B,21ECC303T,VLSI Design and Technology,3,39,12,27,9,3
+III-ECE-B,21ECC311L,VLSI Design/ Microprocessor Laboratory,4,52,16,36,13,5
+III-ECE-B,21ECE468T,System and Network on Chip,3,39,12,27,9,3
+III-ECE-B,21GNP301L,Community connect,2,26,8,18,6,2
+III-ECE-B,21LEM301T,Indian Art Form,1,13,4,9,3,1
+III-ECE-B,21MAB302T,Discrete Mathematics,4,52,16,36,13,5
+III-ECE-B,21PDM301L,Analytical and logical thinking skills,3,39,12,27,9,3
+III-ECE-DS,21CSO355T,Machine learning for all,3,39,12,27,9,3
+III-ECE-DS,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",4,52,16,36,13,5
+III-ECE-DS,21ECC303T,VLSI Design and Technology,3,39,12,27,9,3
+III-ECE-DS,21ECC311L,VLSI Design/ Microprocessor Laboratory,4,52,16,36,13,5
+III-ECE-DS,21ECE371T,Database Design and Management,3,39,12,27,9,3
+III-ECE-DS,21GNP301L,Community connect,2,26,8,18,6,2
+III-ECE-DS,21LEM301T,Indian Art Form,1,13,4,9,3,1
+III-ECE-DS,21MAB302T,Discrete Mathematics,4,52,16,36,13,5
+III-ECE-DS,21PDM301L,Analytical and logical thinking skills,3,39,12,27,9,3
+IV-ECE-A,21CSO355T,Machine learning for all,3,39,12,27,9,3
+IV-ECE-A,21ECC401T,Wireless Communication and Antenna Systems,3,39,12,27,9,3
+IV-ECE-A,21ECC402P,Computer Communication and Network Security,4,52,16,36,13,5
+IV-ECE-A,21ECE461T,Semiconductor Memory Design,3,39,12,27,9,3
+IV-ECE-A,21ECE463T,Scripting Language for Electronic Design Automation,3,39,12,27,9,3
+IV-ECE-A,21GNH401T,Behavioural Psychology,3,39,12,27,9,3
+IV-ECE-B,21CSO355T,Machine learning for all,3,39,12,27,9,3
+IV-ECE-B,21ECC401T,Wireless Communication and Antenna Systems,3,39,12,27,9,3
+IV-ECE-B,21ECC402P,Computer Communication and Network Security,4,52,16,36,13,5
+IV-ECE-B,21ECE461T,Semiconductor Memory Design,3,39,12,27,9,3
+IV-ECE-B,21ECE463T,Scripting Language for Electronic Design Automation,3,39,12,27,9,3
+IV-ECE-B,21GNH401T,Behavioural Psychology,3,39,12,27,9,3

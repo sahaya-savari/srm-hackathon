@@ -1,0 +1,6028 @@
+{
+ "meta": {
+  "semesterStart": "2026-08-29",
+  "semesterEnd": "2026-11-29",
+  "instructionDays": [
+   "Monday",
+   "Tuesday",
+   "Wednesday",
+   "Thursday",
+   "Friday"
+  ],
+  "countingUnit": "period (one 50-minute timetable period = one attendance hour; a 2-period lab counts as 2)",
+  "source": "Manually transcribed from the 10 organiser PDFs (image-only scans; OCR was unreliable). Every cell visually verified.",
+  "disclaimer": "Counts are SCHEDULED timetable classes. Real numbers can differ if holidays, cancellations, exams or timetable changes happen."
+ },
+ "sections": [
+  {
+   "id": "IV-ECE-A",
+   "year": 4,
+   "semester": 7,
+   "department": "ECE",
+   "venue": "IST 225",
+   "academicYear": "2026-27",
+   "sourceFile": "IV ECE A.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 19,
+   "subjects": [
+    {
+     "code": "21ECC402P",
+     "name": "Computer Communication and Network Security",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr.S.Jeevanantham",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CSO355T",
+     "name": "Machine learning for all",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.N.Prasanna Venkatesh",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC401T",
+     "name": "Wireless Communication and Antenna Systems",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.K.Vigneshwaran",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECE461T",
+     "name": "Semiconductor Memory Design",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. H.SriBhuvaneshwari",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECE463T",
+     "name": "Scripting Language for Electronic Design Automation",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Sreenivasa Rao Ijada",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNH401T",
+     "name": "Behavioural Psychology",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.A.Anand",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC402P",
+      "name": "Computer Communication and Network Security",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21GNH401T",
+      "name": "Behavioural Psychology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECE461T",
+      "name": "Semiconductor Memory Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC402P",
+      "name": "Computer Communication and Network Security",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECE461T",
+      "name": "Semiconductor Memory Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC401T",
+      "name": "Wireless Communication and Antenna Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC401T",
+      "name": "Wireless Communication and Antenna Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC402P",
+      "name": "Computer Communication and Network Security",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST108",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECE463T",
+      "name": "Scripting Language for Electronic Design Automation",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21GNH401T",
+      "name": "Behavioural Psychology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECE463T",
+      "name": "Scripting Language for Electronic Design Automation",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC401T",
+      "name": "Wireless Communication and Antenna Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC402P",
+      "name": "Computer Communication and Network Security",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21GNH401T",
+      "name": "Behavioural Psychology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECE461T",
+      "name": "Semiconductor Memory Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECE463T",
+      "name": "Scripting Language for Electronic Design Automation",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "IV-ECE-B",
+   "year": 4,
+   "semester": 7,
+   "department": "ECE",
+   "venue": "IST 227",
+   "academicYear": "2026-27",
+   "sourceFile": "IV ECE B.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 19,
+   "subjects": [
+    {
+     "code": "21ECC402P",
+     "name": "Computer Communication and Network Security",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. R. Rajasekar",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CSO355T",
+     "name": "Machine learning for all",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.N.Prasanna Venkatesh",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC401T",
+     "name": "Wireless Communication and Antenna Systems",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.K.Vigneshwaran",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECE461T",
+     "name": "Semiconductor Memory Design",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. H.SriBhuvaneshwari",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECE463T",
+     "name": "Scripting Language for Electronic Design Automation",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Sreenivasa Rao Ijada",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNH401T",
+     "name": "Behavioural Psychology",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.A.Annand",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC402P",
+      "name": "Computer Communication and Network Security",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21GNH401T",
+      "name": "Behavioural Psychology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECE463T",
+      "name": "Scripting Language for Electronic Design Automation",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC402P",
+      "name": "Computer Communication and Network Security",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECE463T",
+      "name": "Scripting Language for Electronic Design Automation",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC401T",
+      "name": "Wireless Communication and Antenna Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC402P",
+      "name": "Computer Communication and Network Security",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECE461T",
+      "name": "Semiconductor Memory Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21GNH401T",
+      "name": "Behavioural Psychology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC401T",
+      "name": "Wireless Communication and Antenna Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECE461T",
+      "name": "Semiconductor Memory Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC401T",
+      "name": "Wireless Communication and Antenna Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC402P",
+      "name": "Computer Communication and Network Security",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST108",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21GNH401T",
+      "name": "Behavioural Psychology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECE463T",
+      "name": "Scripting Language for Electronic Design Automation",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECE461T",
+      "name": "Semiconductor Memory Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "III-ECE-A",
+   "year": 3,
+   "semester": 5,
+   "department": "ECE",
+   "venue": "IST 518/FN",
+   "academicYear": "2026-27",
+   "sourceFile": "III ECE A.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 27,
+   "subjects": [
+    {
+     "code": "21ECC301P",
+     "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "project",
+      "theory"
+     ],
+     "faculty": "Dr.M.Manikandan",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC311L",
+     "name": "VLSI Design/ Microprocessor Laboratory",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr.M.Jothi & Dr. P. Murugapandiyan / Dr.V. Manikandan",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB302T",
+     "name": "Discrete Mathematics",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "New Faculty 3",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CSO355T",
+     "name": "Machine learning for all",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. J.Jencia",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC303T",
+     "name": "VLSI Design and Technology",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.M.Jothi",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECE468T",
+     "name": "System and Network on Chip",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.V. Manikandan",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM301L",
+     "name": "Analytical and logical thinking skills",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "CDC / 625",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNP301L",
+     "name": "Community connect",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "practical"
+     ],
+     "faculty": "Dr.V .Rajesh / Dr. V.Bharathi",
+     "credits": 1.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM301T",
+     "name": "Indian Art Form",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.K.Vigneshwaran",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21LEM301T",
+      "name": "Indian Art Form",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECE468T",
+      "name": "System and Network on Chip",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "project",
+      "isLab": false,
+      "room": null,
+      "confidence": "medium"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECE468T",
+      "name": "System and Network on Chip",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21GNP301L",
+      "name": "Community connect",
+      "type": "practical",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/309",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/309",
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21GNP301L",
+      "name": "Community connect",
+      "type": "practical",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECE468T",
+      "name": "System and Network on Chip",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/309",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/309",
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "III-ECE-B",
+   "year": 3,
+   "semester": 5,
+   "department": "ECE",
+   "venue": "IST 518/AN",
+   "academicYear": "2026-27",
+   "sourceFile": "III ECE B.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 27,
+   "subjects": [
+    {
+     "code": "21ECC301P",
+     "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "project",
+      "theory"
+     ],
+     "faculty": "Mrs. B. Abirami",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC311L",
+     "name": "VLSI Design/ Microprocessor Laboratory",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr.Sreenivasa Ijada Rao / Dr. B. DeviSri & Dr. Prassanna Venkatesh",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB302T",
+     "name": "Discrete Mathematics",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.M.Thanga Rejini",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CSO355T",
+     "name": "Machine learning for all",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. J.Jencia",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC303T",
+     "name": "VLSI Design and Technology",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.R.Vinoth Raj",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECE468T",
+     "name": "System and Network on Chip",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.V. Manikandan",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM301L",
+     "name": "Analytical and logical thinking skills",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "CDC \u2013 625",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNP301L",
+     "name": "Community connect",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "practical"
+     ],
+     "faculty": "Dr. H. Sudharsan / Ms. T.Swetha",
+     "credits": 1.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM301T",
+     "name": "Indian Art Form",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. A.Anand",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/309",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/309",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECE468T",
+      "name": "System and Network on Chip",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21GNP301L",
+      "name": "Community connect",
+      "type": "practical",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21ECE468T",
+      "name": "System and Network on Chip",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "project",
+      "isLab": false,
+      "room": null,
+      "confidence": "medium"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21LEM301T",
+      "name": "Indian Art Form",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/309",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/309",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21GNP301L",
+      "name": "Community connect",
+      "type": "practical",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECE468T",
+      "name": "System and Network on Chip",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "III-ECE-DS",
+   "year": 3,
+   "semester": 5,
+   "department": "ECE-DS",
+   "venue": "IST 519/FN",
+   "academicYear": "2026-27",
+   "sourceFile": "III ECE DS.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 27,
+   "subjects": [
+    {
+     "code": "21ECC301P",
+     "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "project",
+      "theory"
+     ],
+     "faculty": "Mrs. B. Abirami",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC311L",
+     "name": "VLSI Design/ Microprocessor Laboratory",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr. R. Vinothraj / Dr. H. Sri Bhuvaneshwari",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB302T",
+     "name": "Discrete Mathematics",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "New faculty 2",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CSO355T",
+     "name": "Machine learning for all",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Dr.Chitra Devi",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC303T",
+     "name": "VLSI Design and Technology",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.R.Vinoth Raj",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECE371T",
+     "name": "Database Design and Management",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. S.Saraswathi",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM301L",
+     "name": "Analytical and logical thinking skills",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "CDC-625",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNP301L",
+     "name": "Community connect",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "practical"
+     ],
+     "faculty": "Dr. S.Jeevanantham / Dr.V. Manikandan",
+     "credits": 1.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM301T",
+     "name": "Indian Art Form",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.Prabin Kumar Bera",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECE371T",
+      "name": "Database Design and Management",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21GNP301L",
+      "name": "Community connect",
+      "type": "practical",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/107",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/107",
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21LEM301T",
+      "name": "Indian Art Form",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC303T",
+      "name": "VLSI Design and Technology",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECE371T",
+      "name": "Database Design and Management",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21GNP301L",
+      "name": "Community connect",
+      "type": "practical",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21CSO355T",
+      "name": "Machine learning for all",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21MAB302T",
+      "name": "Discrete Mathematics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECE371T",
+      "name": "Database Design and Management",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC301P",
+      "name": "Microprocessor, Microcontroller, and Interfacing Techniques",
+      "type": "project",
+      "isLab": false,
+      "room": null,
+      "confidence": "medium"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21PDM301L",
+      "name": "Analytical and logical thinking skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/107",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECC311L",
+      "name": "VLSI Design/ Microprocessor Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "108/107",
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "III-BME",
+   "year": 3,
+   "semester": 5,
+   "department": "BME",
+   "venue": "IST 211 / AN",
+   "academicYear": "2026-27",
+   "sourceFile": "III BME.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 29,
+   "subjects": [
+    {
+     "code": "21BMC301J",
+     "name": "Biomedical Signal Processing",
+     "weeklyPeriods": 5,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. V.N. Senthilkumaran",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BMC302J",
+     "name": "Microcontrollers and Its Application in Medicine",
+     "weeklyPeriods": 5,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr.K.Vigneshwaran",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB301T",
+     "name": "Probability and Statistics",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. K. M. Karuppusamy",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BMC303T",
+     "name": "Principles of Medical Imaging",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.N.Prasana venkatesh",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BME266T",
+     "name": "Biometrics",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. G. Gifta",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECO103T",
+     "name": "Modern wireless communication system",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Vaishnavi",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM301L",
+     "name": "Analytical and Logical Thinking Skills",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "CDC-625",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNP301L",
+     "name": "Community Connect",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "practical"
+     ],
+     "faculty": "Dr. J.Jencia / Dr.N.Prasanna Venkatesh",
+     "credits": 1.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM301T",
+     "name": "Indian Art Form",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. G. Gifta",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21PDM301L",
+      "name": "Analytical and Logical Thinking Skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21PDM301L",
+      "name": "Analytical and Logical Thinking Skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21BMC302J",
+      "name": "Microcontrollers and Its Application in Medicine",
+      "type": "lab",
+      "isLab": true,
+      "room": "107",
+      "confidence": "medium"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21BMC302J",
+      "name": "Microcontrollers and Its Application in Medicine",
+      "type": "lab",
+      "isLab": true,
+      "room": "107",
+      "confidence": "medium"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21ECO103T",
+      "name": "Modern wireless communication system",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21BMC302J",
+      "name": "Microcontrollers and Its Application in Medicine",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21BMC303T",
+      "name": "Principles of Medical Imaging",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21LEM301T",
+      "name": "Indian Art Form",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BMC301J",
+      "name": "Biomedical Signal Processing",
+      "type": "lab",
+      "isLab": true,
+      "room": "108",
+      "confidence": "medium"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21BMC301J",
+      "name": "Biomedical Signal Processing",
+      "type": "lab",
+      "isLab": true,
+      "room": "108",
+      "confidence": "medium"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21PDM301L",
+      "name": "Analytical and Logical Thinking Skills",
+      "type": "skill",
+      "isLab": false,
+      "room": "625",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21BMC301J",
+      "name": "Biomedical Signal Processing",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21BME266T",
+      "name": "Biometrics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21MAB301T",
+      "name": "Probability and Statistics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21BMC302J",
+      "name": "Microcontrollers and Its Application in Medicine",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21BMC301J",
+      "name": "Biomedical Signal Processing",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21MAB301T",
+      "name": "Probability and Statistics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21BMC303T",
+      "name": "Principles of Medical Imaging",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21BME266T",
+      "name": "Biometrics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21GNP301L",
+      "name": "Community Connect",
+      "type": "practical",
+      "isLab": false,
+      "room": "108",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21MAB301T",
+      "name": "Probability and Statistics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21BMC301J",
+      "name": "Biomedical Signal Processing",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21ECO103T",
+      "name": "Modern wireless communication system",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21BMC302J",
+      "name": "Microcontrollers and Its Application in Medicine",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21GNP301L",
+      "name": "Community Connect",
+      "type": "practical",
+      "isLab": false,
+      "room": "108",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21BMC303T",
+      "name": "Principles of Medical Imaging",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21MAB301T",
+      "name": "Probability and Statistics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21BME266T",
+      "name": "Biometrics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECO103T",
+      "name": "Modern wireless communication system",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "II-BME",
+   "year": 2,
+   "semester": 3,
+   "department": "BME",
+   "venue": "IST 602 / FN",
+   "academicYear": "2026-27",
+   "sourceFile": "II BME.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 29,
+   "subjects": [
+    {
+     "code": "21BMC203J|21BMC204J",
+     "name": "Electric and Electronic Circuits | Digital Logic for Medical Systems",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": null,
+     "credits": null,
+     "isCombinedBatchLab": true
+    },
+    {
+     "code": "21MAB201T",
+     "name": "Transforms and Boundary Value Problems",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.A.Manickam",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BMC202T",
+     "name": "Biomedical Signals and Systems",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Senthil Kumaran V N",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BMC203J",
+     "name": "Electric and Electronic Circuits",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Prabin Kumar Bera",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BMC204J",
+     "name": "Digital Logic for Medical Systems",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. G. Gifta",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM202T",
+     "name": "Universal Human Values-II",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mrs.N.Suganthi",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM201L",
+     "name": "Verbal Reasoning",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "CDC-TB-106",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PYS202T",
+     "name": "Medical Physics",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.D.Rajeswari",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDH201T",
+     "name": "Social Engineering",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mrs. Francis Arockiya Mary",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM201T",
+     "name": "Professional Ethics",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. H.SriBhuvaneshwari",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21PYS202T",
+      "name": "Medical Physics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21BMC203J",
+      "name": "Electric and Electronic Circuits",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21PDH201T",
+      "name": "Social Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21PDH201T",
+      "name": "Social Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21BMC203J|21BMC204J",
+      "name": "Electric and Electronic Circuits | Digital Logic for Medical Systems",
+      "type": "lab",
+      "isLab": true,
+      "room": "107,309",
+      "confidence": "low"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21BMC203J|21BMC204J",
+      "name": "Electric and Electronic Circuits | Digital Logic for Medical Systems",
+      "type": "lab",
+      "isLab": true,
+      "room": "107,309",
+      "confidence": "low"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BMC203J",
+      "name": "Electric and Electronic Circuits",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21PYS202T",
+      "name": "Medical Physics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21BMC202T",
+      "name": "Biomedical Signals and Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BMC202T",
+      "name": "Biomedical Signals and Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21BMC204J",
+      "name": "Digital Logic for Medical Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "602",
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21PYS202T",
+      "name": "Medical Physics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21BMC202T",
+      "name": "Biomedical Signals and Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21BMC204J",
+      "name": "Digital Logic for Medical Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21BMC203J|21BMC204J",
+      "name": "Electric and Electronic Circuits | Digital Logic for Medical Systems",
+      "type": "lab",
+      "isLab": true,
+      "room": "107,309",
+      "confidence": "low"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21BMC203J|21BMC204J",
+      "name": "Electric and Electronic Circuits | Digital Logic for Medical Systems",
+      "type": "lab",
+      "isLab": true,
+      "room": "107,309",
+      "confidence": "low"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21LEM201T",
+      "name": "Professional Ethics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21BMC203J",
+      "name": "Electric and Electronic Circuits",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21BMC204J",
+      "name": "Digital Logic for Medical Systems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "602",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "602",
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "II-ECE-DS-A",
+   "year": 2,
+   "semester": 3,
+   "department": "ECE-DS",
+   "venue": "IST 416 / FN",
+   "academicYear": "2026-27",
+   "sourceFile": "II ECE DS A.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 30,
+   "subjects": [
+    {
+     "code": "21CSS201T",
+     "name": "Computer Organization and Architecture",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. P. Murugapandiyan",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC211L",
+     "name": "Devices and Digital IC Laboratory",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr. Jeevanantham S / Dr.V. Bharathi",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB201T",
+     "name": "Transforms and Boundary Value Problems",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.C. Arun Kumar",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC201T",
+     "name": "Solid State Devices",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Jeevanantham S",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC203T",
+     "name": "Digital Logic Design",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.S.Krishnakumar",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC205T",
+     "name": "Electromagnetic Theory and Interference",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.V. Bharathi",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM202T",
+     "name": "Universal Human Values-II",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mrs.N.Suganthi",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM201L",
+     "name": "Verbal Reasoning",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "CDC \u2013 TB -106",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDH209T",
+     "name": "Social Engineering",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mrs.D. Lavanya",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM201T",
+     "name": "Professional Ethics",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Jothi M",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC205T",
+      "name": "Electromagnetic Theory and Interference",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21PDH209T",
+      "name": "Social Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21PDH209T",
+      "name": "Social Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "602",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "602",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21ECC211L",
+      "name": "Devices and Digital IC Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "309/107",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECC211L",
+      "name": "Devices and Digital IC Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "309/107",
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21CSS201T",
+      "name": "Computer Organization and Architecture",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC205T",
+      "name": "Electromagnetic Theory and Interference",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC203T",
+      "name": "Digital Logic Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "602",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC201T",
+      "name": "Solid State Devices",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CSS201T",
+      "name": "Computer Organization and Architecture",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC203T",
+      "name": "Digital Logic Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC201T",
+      "name": "Solid State Devices",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21CSS201T",
+      "name": "Computer Organization and Architecture",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21LEM201T",
+      "name": "Professional Ethics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21ECC211L",
+      "name": "Devices and Digital IC Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "309/107",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC211L",
+      "name": "Devices and Digital IC Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "309/107",
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC203T",
+      "name": "Digital Logic Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC201T",
+      "name": "Solid State Devices",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC205T",
+      "name": "Electromagnetic Theory and Interference",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21CSS201T",
+      "name": "Computer Organization and Architecture",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "II-ECE-DS-B",
+   "year": 2,
+   "semester": 3,
+   "department": "ECE-DS",
+   "venue": "IST 411/ AN",
+   "academicYear": "2026-27",
+   "sourceFile": "II ECE DS B.pdf",
+   "isCurrentTimetable": true,
+   "note": null,
+   "totalWeeklyPeriods": 30,
+   "subjects": [
+    {
+     "code": "21CSS201T",
+     "name": "Computer Organization and Architecture",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. P. Murugapandiyan",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC211L",
+     "name": "Devices and Digital IC Laboratory",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr.S.Krishnakumar",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB201T",
+     "name": "Transforms and Boundary Value Problems",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "NEW FACULTY 3",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC201T",
+     "name": "Solid State Devices",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Jeevanantham S",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC203T",
+     "name": "Digital Logic Design",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.S.Krishnakumar",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21ECC205T",
+     "name": "Electromagnetic Theory and Interference",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.V. Bharathi",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM202T",
+     "name": "Universal Human Values-II",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mrs.D.Lavanya",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM201L",
+     "name": "Verbal Reasoning",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "CDC-TB-106",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDH209T",
+     "name": "Social Engineering",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mrs.D. Lavanya",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEM201T",
+     "name": "Professional Ethics",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. K. Vigneshwaran",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21ECC211L",
+      "name": "Devices and Digital IC Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "309/107",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21ECC211L",
+      "name": "Devices and Digital IC Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "309/107",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21ECC203T",
+      "name": "Digital Logic Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC201T",
+      "name": "Solid State Devices",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21CSS201T",
+      "name": "Computer Organization and Architecture",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21PDH209T",
+      "name": "Social Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21ECC211L",
+      "name": "Devices and Digital IC Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "309/107",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21ECC211L",
+      "name": "Devices and Digital IC Laboratory",
+      "type": "lab",
+      "isLab": true,
+      "room": "309/107",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21CSS201T",
+      "name": "Computer Organization and Architecture",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC203T",
+      "name": "Digital Logic Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21ECC205T",
+      "name": "Electromagnetic Theory and Interference",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "401",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21PDH209T",
+      "name": "Social Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21ECC205T",
+      "name": "Electromagnetic Theory and Interference",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECC203T",
+      "name": "Digital Logic Design",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "401",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:50",
+      "end": "10:40",
+      "code": "21LEM202T",
+      "name": "Universal Human Values-II",
+      "type": "theory",
+      "isLab": false,
+      "room": "401",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:40",
+      "end": "12:30",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21CSS201T",
+      "name": "Computer Organization and Architecture",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21ECC201T",
+      "name": "Solid State Devices",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21ECC205T",
+      "name": "Electromagnetic Theory and Interference",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21PDM201L",
+      "name": "Verbal Reasoning",
+      "type": "skill",
+      "isLab": false,
+      "room": "TB-106",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:20",
+      "end": "14:10",
+      "code": "21LEM201T",
+      "name": "Professional Ethics",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:10",
+      "end": "15:00",
+      "code": "21MAB201T",
+      "name": "Transforms and Boundary Value Problems",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:10",
+      "end": "16:00",
+      "code": "21ECC201T",
+      "name": "Solid State Devices",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:00",
+      "end": "16:50",
+      "code": "21CSS201T",
+      "name": "Computer Organization and Architecture",
+      "type": "theory",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "I-ECE-A",
+   "year": 1,
+   "semester": 1,
+   "department": "ECE",
+   "venue": "IST602 (per cell)",
+   "academicYear": "2024-25",
+   "sourceFile": "I year Time Table SEEE.pdf",
+   "isCurrentTimetable": false,
+   "note": "This PDF's header says academic year 2024-25. It is the only I-year timetable provided, so it is applied to the 2026 semester as-is.",
+   "totalWeeklyPeriods": 39,
+   "subjects": [
+    {
+     "code": "21CYB101J",
+     "name": "Chemistry",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. P. Pachamuthu",
+     "credits": 5.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEH104T",
+     "name": "German",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mr. Selva",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CSS101J",
+     "name": "Programming for Problem Solving",
+     "weeklyPeriods": 5,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. A. Rama Prasath",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTB102J",
+     "name": "Electronic System and PCB Design",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. U. Shajith Ali",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB102T",
+     "name": "Advanced Calculus and Complex Analysis",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. R. Ragul",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MES101L",
+     "name": "Basic Civil and Mechanical Workshop",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr. N.S. Balaji; Dr. M. Kumaran",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNH101J",
+     "name": "Philosophy of Engineering",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. R. Aarthi",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM102L",
+     "name": "General Aptitude",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "Mr. Sivanandhan",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTB103T",
+     "name": "Biology",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. M. Jaya Priya",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNM102L",
+     "name": "NSS",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "activity"
+     ],
+     "faculty": "Dr. R. Manickam",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21BTB103T",
+      "name": "Biology",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BTB102J",
+      "name": "Electronic System and PCB Design",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST618",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21BTB102J",
+      "name": "Electronic System and PCB Design",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST108",
+      "confidence": "medium"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21BTB102J",
+      "name": "Electronic System and PCB Design",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST108",
+      "confidence": "medium"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST510",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST510",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21GNM102L",
+      "name": "NSS",
+      "type": "activity",
+      "isLab": false,
+      "room": "IST201",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21GNM102L",
+      "name": "NSS",
+      "type": "activity",
+      "isLab": false,
+      "room": "IST201",
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21BTB102J",
+      "name": "Electronic System and PCB Design",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21BTB103T",
+      "name": "Biology",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "I-ECE-B-EEE",
+   "year": 1,
+   "semester": 1,
+   "department": "ECE+EEE (combined)",
+   "venue": "IST602 (per cell)",
+   "academicYear": "2024-25",
+   "sourceFile": "I year Time Table SEEE.pdf",
+   "isCurrentTimetable": false,
+   "note": "This PDF's header says academic year 2024-25. It is the only I-year timetable provided, so it is applied to the 2026 semester as-is.",
+   "totalWeeklyPeriods": 39,
+   "subjects": [
+    {
+     "code": "21CYB101J",
+     "name": "Chemistry",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. N. Prabhu",
+     "credits": 5.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEH104T",
+     "name": "German",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mr. Selva",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CSS101J",
+     "name": "Programming for Problem Solving",
+     "weeklyPeriods": 5,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. A. Rama Prasath",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTB102J|21EEC101J",
+     "name": "Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE)",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": null,
+     "credits": null,
+     "isCombinedBatchLab": true
+    },
+    {
+     "code": "21MAB102T",
+     "name": "Advanced Calculus and Complex Analysis",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. M. Deepa",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MES101L",
+     "name": "Basic Civil and Mechanical Workshop",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr. Modasir MD Khan; Mr.M.Karthikeyan",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNH101J",
+     "name": "Philosophy of Engineering",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. R. Aarthi",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM102L",
+     "name": "General Aptitude",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "Mrs. Thenmozhi",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTB103T",
+     "name": "Biology",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. M. Jaya Priya",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNM102L",
+     "name": "NSS",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "activity"
+     ],
+     "faculty": "Dr. R. Manickam",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST609",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21BTB102J|21EEC101J",
+      "name": "Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE)",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "low"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21BTB103T",
+      "name": "Biology",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BTB102J|21EEC101J",
+      "name": "Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE)",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "low"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST617",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST510",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST510",
+      "confidence": "high"
+     },
+     {
+      "period": 5,
+      "start": "12:35",
+      "end": "13:30",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST618",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21GNM102L",
+      "name": "NSS",
+      "type": "activity",
+      "isLab": false,
+      "room": "201",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21GNM102L",
+      "name": "NSS",
+      "type": "activity",
+      "isLab": false,
+      "room": "201",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21BTB103T",
+      "name": "Biology",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BTB102J|21EEC101J",
+      "name": "Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE)",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST617",
+      "confidence": "low"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21BTB102J|21EEC101J",
+      "name": "Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE)",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST617",
+      "confidence": "low"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 5,
+      "start": "12:35",
+      "end": "13:30",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST602",
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "I-ECE-DS",
+   "year": 1,
+   "semester": 1,
+   "department": "ECE-DS",
+   "venue": "IST502 (per cell)",
+   "academicYear": "2024-25",
+   "sourceFile": "I year Time Table SEEE.pdf",
+   "isCurrentTimetable": false,
+   "note": "This PDF's header says academic year 2024-25. It is the only I-year timetable provided, so it is applied to the 2026 semester as-is.",
+   "totalWeeklyPeriods": 40,
+   "subjects": [
+    {
+     "code": "21CSS101J",
+     "name": "Programming for Problem Solving",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Mrs. R. Sharanya",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CYB101J",
+     "name": "Chemistry",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. Ujjwala",
+     "credits": 5.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEH104T",
+     "name": "German",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mr. Selva",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTB102J",
+     "name": "Electronic System and PCB Design",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. V.N.Senthil Kumaran",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB102T",
+     "name": "Advanced Calculus and Complex Analysis",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Pandiyarajan",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MES101L",
+     "name": "Basic Civil and Mechanical Workshop",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr. Sakthibalan; Dr. MD Modasir Khan",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNH101J",
+     "name": "Philosophy of Engineering",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. R. Ramesh",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM102L",
+     "name": "General Aptitude",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "Mr. Sivanandhan",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTB103T",
+     "name": "Biology",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr.M.Maria Leena",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNM102L",
+     "name": "NSS",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "activity"
+     ],
+     "faculty": "Dr. R. Manickam",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BTB103T",
+      "name": "Biology",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21BTB102J",
+      "name": "Electronic System and PCB Design",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST617",
+      "confidence": "medium"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21BTB102J",
+      "name": "Electronic System and PCB Design",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST617",
+      "confidence": "medium"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21GNM102L",
+      "name": "NSS",
+      "type": "activity",
+      "isLab": false,
+      "room": "201",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21GNM102L",
+      "name": "NSS",
+      "type": "activity",
+      "isLab": false,
+      "room": "201",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21BTB102J",
+      "name": "Electronic System and PCB Design",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST510",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST510",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 5,
+      "start": "12:35",
+      "end": "13:30",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST617",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST617",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BTB103T",
+      "name": "Biology",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST510",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 5,
+      "start": "12:35",
+      "end": "13:30",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21BTB102J",
+      "name": "Electronic System and PCB Design",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST502",
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21LEH104T",
+      "name": "German",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST626",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     }
+    ]
+   }
+  },
+  {
+   "id": "I-BIOTECH-B-BME",
+   "year": 1,
+   "semester": 1,
+   "department": "Biotech+BME (combined)",
+   "venue": "IST702 (per cell)",
+   "academicYear": "2024-25",
+   "sourceFile": "I year Time Table SEEE.pdf",
+   "isCurrentTimetable": false,
+   "note": "This PDF's header says academic year 2024-25. It is the only I-year timetable provided, so it is applied to the 2026 semester as-is.",
+   "totalWeeklyPeriods": 39,
+   "subjects": [
+    {
+     "code": "21CYB101J",
+     "name": "Chemistry",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. R. Logudurai",
+     "credits": 5.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21LEH105T",
+     "name": "Japanese",
+     "weeklyPeriods": 6,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Mr. Nadeem",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21CSS101J",
+     "name": "Programming for Problem Solving",
+     "weeklyPeriods": 5,
+     "classTypes": [
+      "lab",
+      "theory"
+     ],
+     "faculty": "Dr. B. Chitradevi",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MAB102T",
+     "name": "Advanced Calculus and Complex Analysis",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. R. Suresh",
+     "credits": 4.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21MES101L",
+     "name": "Basic Civil and Mechanical Workshop",
+     "weeklyPeriods": 4,
+     "classTypes": [
+      "lab"
+     ],
+     "faculty": "Dr.R.Manimaran; Dr.R.Ramesh",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNH101J",
+     "name": "Philosophy of Engineering",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. J. Ramya Parkavi",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21PDM102L",
+     "name": "General Aptitude",
+     "weeklyPeriods": 3,
+     "classTypes": [
+      "skill"
+     ],
+     "faculty": "Mr. Sivanandhan",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTC101T",
+     "name": "Biochemistry (for Biotech)",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. M. Jaya Priya",
+     "credits": 3.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTC105T",
+     "name": "Cell biology (for Biotech)",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": "Dr. Daniel Paul",
+     "credits": 2.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21GNM101L",
+     "name": "Physical and Mental Health using Yoga",
+     "weeklyPeriods": 2,
+     "classTypes": [
+      "activity"
+     ],
+     "faculty": "Ms. Balasivapriya",
+     "credits": 0.0,
+     "isCombinedBatchLab": false
+    },
+    {
+     "code": "21BTC101T|21BTB104T",
+     "name": "Biochemistry (for Biotech) | Biology: Human physiology and anatomy (only for Biomedical Engineering)",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": null,
+     "credits": null,
+     "isCombinedBatchLab": true
+    },
+    {
+     "code": "21BTC105T|21BTB104T",
+     "name": "Cell biology (for Biotech) | Biology: Human physiology and anatomy (only for Biomedical Engineering)",
+     "weeklyPeriods": 1,
+     "classTypes": [
+      "theory"
+     ],
+     "faculty": null,
+     "credits": null,
+     "isCombinedBatchLab": true
+    }
+   ],
+   "weekly": {
+    "Monday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BTC105T",
+      "name": "Cell biology (for Biotech)",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST520",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21GNM101L",
+      "name": "Physical and Mental Health using Yoga",
+      "type": "activity",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21GNM101L",
+      "name": "Physical and Mental Health using Yoga",
+      "type": "activity",
+      "isLab": false,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21BTC101T|21BTB104T",
+      "name": "Biochemistry (for Biotech) | Biology: Human physiology and anatomy (only for Biomedical Engineering)",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "low"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     }
+    ],
+    "Tuesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21BTC105T",
+      "name": "Cell biology (for Biotech)",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST520",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21BTC101T",
+      "name": "Biochemistry (for Biotech)",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     }
+    ],
+    "Wednesday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21MES101L",
+      "name": "Basic Civil and Mechanical Workshop",
+      "type": "lab",
+      "isLab": true,
+      "room": "IST20,21",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21GNH101J",
+      "name": "Philosophy of Engineering",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     }
+    ],
+    "Thursday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST710",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21BTC105T|21BTB104T",
+      "name": "Cell biology (for Biotech) | Biology: Human physiology and anatomy (only for Biomedical Engineering)",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST510",
+      "confidence": "low"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21CYB101J",
+      "name": "Chemistry",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 7,
+      "start": "14:25",
+      "end": "15:15",
+      "code": "21LEH105T",
+      "name": "Japanese",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21LEH105T",
+      "name": "Japanese",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21LEH105T",
+      "name": "Japanese",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     }
+    ],
+    "Friday": [
+     {
+      "period": 1,
+      "start": "09:00",
+      "end": "09:50",
+      "code": "21BTC101T",
+      "name": "Biochemistry (for Biotech)",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 2,
+      "start": "09:55",
+      "end": "10:45",
+      "code": "21PDM102L",
+      "name": "General Aptitude",
+      "type": "skill",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 3,
+      "start": "10:50",
+      "end": "11:40",
+      "code": "21MAB102T",
+      "name": "Advanced Calculus and Complex Analysis",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 4,
+      "start": "11:45",
+      "end": "12:35",
+      "code": "21LEH105T",
+      "name": "Japanese",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 5,
+      "start": "12:35",
+      "end": "13:30",
+      "code": "21LEH105T",
+      "name": "Japanese",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 6,
+      "start": "13:30",
+      "end": "14:20",
+      "code": "21LEH105T",
+      "name": "Japanese",
+      "type": "theory",
+      "isLab": false,
+      "room": "IST702",
+      "confidence": "high"
+     },
+     {
+      "period": 8,
+      "start": "15:20",
+      "end": "16:10",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     },
+     {
+      "period": 9,
+      "start": "16:15",
+      "end": "17:05",
+      "code": "21CSS101J",
+      "name": "Programming for Problem Solving",
+      "type": "lab",
+      "isLab": true,
+      "room": null,
+      "confidence": "high"
+     }
+    ]
+   }
+  }
+ ]
+}

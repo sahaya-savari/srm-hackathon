@@ -1,0 +1,73 @@
+/* VibeCraft theme for the Attendance Predictor — Tailwind CSS v4.
+ * Colour tokens are copied from the official VibeCraft site (vibecraft-ntt-yuva26.vercel.app).
+ * Fonts: "Press Start 2P" (pixel headings) + "Rubik" (body), self-hosted via @fontsource
+ * (works offline; next/font/google fails the build if Google Fonts can't be reached). In app/layout.tsx:
+ *   import "@fontsource/press-start-2p";
+ *   import "@fontsource/rubik/400.css"; import "@fontsource/rubik/500.css";
+ *   import "@fontsource/rubik/600.css"; import "@fontsource/rubik/700.css"; import "@fontsource/rubik/800.css";
+ */
+@import "tailwindcss";
+
+@theme {
+  /* VibeCraft palette */
+  --color-night: #0B0E1F;        /* page background */
+  --color-night-2: #141A35;      /* cards / panels */
+  --color-night-3: #1C2448;      /* raised elements, inputs */
+  --color-parchment: #F1E9D2;    /* main text */
+  --color-parchment-dim: #CFC6A9;/* secondary text */
+  --color-ink: #1B140C;          /* text on bright buttons */
+  --color-grass: #4C7A2E;
+  --color-grass-light: #6FA043;  /* SAFE */
+  --color-grass-dark: #345319;
+  --color-torch: #FF9130;        /* primary action + AT RISK */
+  --color-torch-light: #FFB35C;
+  --color-tnt: #E33D2E;          /* IRREVERSIBLE DETENTION */
+  --color-ender: #7C4DFF;        /* 90% goal */
+  --color-ender-light: #A88BFF;
+
+  --font-pixel: "Press Start 2P", monospace;
+  --font-sans: "Rubik", system-ui, sans-serif;
+
+  --shadow-pixel: 5px 5px 0 0 rgba(0, 0, 0, 0.5);
+  --shadow-pixel-sm: 3px 3px 0 0 rgba(0, 0, 0, 0.5);
+}
+
+html { color-scheme: dark; }
+body {
+  background: var(--color-night);
+  color: var(--color-parchment);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Numbers never jump width when they change */
+.num { font-variant-numeric: tabular-nums; }
+
+/* Chunky "block" button like the VibeCraft site */
+.btn-block {
+  background: var(--color-torch);
+  color: var(--color-ink);
+  font-weight: 700;
+  padding: 0.75rem 1.25rem;
+  box-shadow: var(--shadow-pixel);
+  transition: transform 80ms ease, box-shadow 80ms ease;
+}
+.btn-block:hover { background: var(--color-torch-light); }
+.btn-block:active { transform: translate(3px, 3px); box-shadow: 2px 2px 0 0 rgba(0, 0, 0, 0.5); }
+.btn-block:focus-visible { outline: 3px solid var(--color-parchment); outline-offset: 3px; }
+
+/* Panel with a pixel border */
+.panel {
+  background: var(--color-night-2);
+  border: 2px solid rgba(241, 233, 210, 0.12);
+  box-shadow: var(--shadow-pixel);
+}
+
+/* Irreversible alert: one shake on appear, then a slow glow. Respect reduced motion. */
+@keyframes shake { 10%, 90% { transform: translateX(-2px); } 20%, 80% { transform: translateX(4px); } 30%, 50%, 70% { transform: translateX(-6px); } 40%, 60% { transform: translateX(6px); } }
+@keyframes tnt-glow { 0%, 100% { box-shadow: 0 0 0 0 rgba(227, 61, 46, 0.55), var(--shadow-pixel); } 50% { box-shadow: 0 0 28px 4px rgba(227, 61, 46, 0.55), var(--shadow-pixel); } }
+.alert-irreversible { animation: shake 0.6s ease-in-out 1, tnt-glow 2.4s ease-in-out 0.6s infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .alert-irreversible { animation: none; }
+  * { transition-duration: 0ms !important; }
+}

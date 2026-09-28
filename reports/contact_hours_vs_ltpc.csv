@@ -1,0 +1,120 @@
+section_id,subject_code,L,T,P,ltpc,subject_name,slots,weekly_periods,weekly_periods_incl_ambiguous_share,expected_LTP,delta
+I-BIOTECH-B-BME,21BTB104T,2.0,0.0,0.0,2-0-0-2,Biology: Human physiology and anatomy (only for Biomedical Engineering),G,0.0,0.5,2.0,-1.5
+I-BIOTECH-B-BME,21BTC101T,3.0,0.0,0.0,3-0-0-3,Biochemistry (for Biotech),F,2.0,2.5,3.0,-0.5
+I-BIOTECH-B-BME,21BTC105T,2.0,0.0,0.0,2-0-0-2,Cell biology (for Biotech),C,2.0,2.5,2.0,0.5
+I-BIOTECH-B-BME,21CSS101J,3.0,0.0,2.0,3-0-2-4,Programming for Problem Solving,D,5.0,5.0,5.0,0.0
+I-BIOTECH-B-BME,21CYB101J,3.0,1.0,2.0,3-1-2-5,Chemistry,B,6.0,6.0,6.0,0.0
+I-BIOTECH-B-BME,21GNH101J,1.0,0.0,2.0,1-0-2-2,Philosophy of Engineering,E,3.0,3.0,3.0,0.0
+I-BIOTECH-B-BME,21GNM101L,0.0,0.0,2.0,0-0-2-0,Physical and Mental Health using Yoga,YOGA,2.0,2.0,2.0,0.0
+I-BIOTECH-B-BME,21LEH105T,2.0,1.0,0.0,2-1-0-3,Japanese,Japanese,6.0,6.0,3.0,3.0
+I-BIOTECH-B-BME,21MAB102T,3.0,1.0,0.0,3-1-0-4,Advanced Calculus and Complex Analysis,A,4.0,4.0,4.0,0.0
+I-BIOTECH-B-BME,21MES101L,0.0,0.0,4.0,0-0-4-2,Basic Civil and Mechanical Workshop,Workshop,4.0,4.0,4.0,0.0
+I-BIOTECH-B-BME,21PDM102L,0.0,0.0,2.0,0-0-2-0,General Aptitude,CDC,3.0,3.0,2.0,1.0
+I-ECE-A,21BTB102J,2.0,0.0,0.0,2-0-0-2,Electronic System and PCB Design,C,4.0,4.0,2.0,2.0
+I-ECE-A,21BTB103T,2.0,0.0,0.0,2-0-0-2,Biology,F,2.0,2.0,2.0,0.0
+I-ECE-A,21CSS101J,3.0,0.0,2.0,3-0-2-4,Programming for Problem Solving,D,5.0,5.0,5.0,0.0
+I-ECE-A,21CYB101J,3.0,1.0,2.0,3-1-2-5,Chemistry,B,6.0,6.0,6.0,0.0
+I-ECE-A,21GNH101J,1.0,0.0,2.0,1-0-2-2,Philosophy of Engineering,E,3.0,3.0,3.0,0.0
+I-ECE-A,21GNM102L,0.0,0.0,2.0,0-0-2-0,NSS,NSS,2.0,2.0,2.0,0.0
+I-ECE-A,21LEH104T,2.0,1.0,0.0,2-1-0-3,German,German,6.0,6.0,3.0,3.0
+I-ECE-A,21MAB102T,3.0,1.0,0.0,3-1-0-4,Advanced Calculus and Complex Analysis,A,4.0,4.0,4.0,0.0
+I-ECE-A,21MES101L,0.0,0.0,4.0,0-0-4-2,Basic Civil and Mechanical Workshop,Workshop,4.0,4.0,4.0,0.0
+I-ECE-A,21PDM102L,0.0,0.0,2.0,0-0-2-0,General Aptitude,CDC,3.0,3.0,2.0,1.0
+I-ECE-B-EEE,21BTB102J,,,,MISSING,Electronic System and PCB Design (for ECE),F,0.0,2.0,,
+I-ECE-B-EEE,21BTB103T,2.0,0.0,0.0,2-0-0-2,Biology,C,2.0,2.0,2.0,0.0
+I-ECE-B-EEE,21CSS101J,3.0,0.0,2.0,3-0-2-4,Programming for Problem Solving,D,5.0,5.0,5.0,0.0
+I-ECE-B-EEE,21CYB101J,3.0,1.0,2.0,3-1-2-5,Chemistry,B,6.0,6.0,6.0,0.0
+I-ECE-B-EEE,21EEC101J,,,,MISSING,Electrical Circuits (for EEE),G,0.0,2.0,,
+I-ECE-B-EEE,21GNH101J,1.0,0.0,2.0,1-0-2-2,Philosophy of Engineering,E,3.0,3.0,3.0,0.0
+I-ECE-B-EEE,21GNM102L,0.0,0.0,2.0,0-0-2-0,NSS,NSS,2.0,2.0,2.0,0.0
+I-ECE-B-EEE,21LEH104T,2.0,1.0,0.0,2-1-0-3,German,German,6.0,6.0,3.0,3.0
+I-ECE-B-EEE,21MAB102T,3.0,1.0,0.0,3-1-0-4,Advanced Calculus and Complex Analysis,A,4.0,4.0,4.0,0.0
+I-ECE-B-EEE,21MES101L,0.0,0.0,4.0,0-0-4-2,Basic Civil and Mechanical Workshop,Workshop,4.0,4.0,4.0,0.0
+I-ECE-B-EEE,21PDM102L,0.0,0.0,2.0,0-0-2-0,General Aptitude,CDC,3.0,3.0,2.0,1.0
+I-ECE-DS,21BTB102J,2.0,0.0,0.0,2-0-0-2,Electronic System and PCB Design,C,4.0,4.0,2.0,2.0
+I-ECE-DS,21BTB103T,2.0,0.0,0.0,2-0-0-2,Biology,F,2.0,2.0,2.0,0.0
+I-ECE-DS,21CSS101J,3.0,0.0,2.0,3-0-2-4,Programming for Problem Solving,D,6.0,6.0,5.0,1.0
+I-ECE-DS,21CYB101J,3.0,1.0,2.0,3-1-2-5,Chemistry,B,6.0,6.0,6.0,0.0
+I-ECE-DS,21GNH101J,1.0,0.0,2.0,1-0-2-2,Philosophy of Engineering,E,3.0,3.0,3.0,0.0
+I-ECE-DS,21GNM102L,0.0,0.0,2.0,0-0-2-0,NSS,NSS,2.0,2.0,2.0,0.0
+I-ECE-DS,21LEH104T,2.0,1.0,0.0,2-1-0-3,German,German,6.0,6.0,3.0,3.0
+I-ECE-DS,21MAB102T,3.0,1.0,0.0,3-1-0-4,Advanced Calculus and Complex Analysis,A,4.0,4.0,4.0,0.0
+I-ECE-DS,21MES101L,0.0,0.0,4.0,0-0-4-2,Basic Civil and Mechanical Workshop,Workshop,4.0,4.0,4.0,0.0
+I-ECE-DS,21PDM102L,0.0,0.0,2.0,0-0-2-0,General Aptitude,CDC,3.0,3.0,2.0,1.0
+II-BME,21BMC202T,3.0,0.0,0.0,3-0-0-3,Biomedical Signals and Systems,B,3.0,3.0,3.0,0.0
+II-BME,21BMC203J,3.0,0.0,2.0,3-0-2-4,Electric and Electronic Circuits,C,3.0,5.0,5.0,0.0
+II-BME,21BMC204J,2.0,0.0,2.0,2-0-2-3,Digital Logic for Medical Systems,D,3.0,5.0,4.0,1.0
+II-BME,21LEM201T,1.0,0.0,0.0,1-0-0-0,Professional Ethics,F,1.0,1.0,1.0,0.0
+II-BME,21LEM202T,2.0,1.0,0.0,2-1-0-3,Universal Human Values-II,G,3.0,3.0,3.0,0.0
+II-BME,21MAB201T,3.0,1.0,0.0,3-1-0-4,Transforms and Boundary Value Problems,A,4.0,4.0,4.0,0.0
+II-BME,21PDH201T,2.0,0.0,0.0,2-0-0-2,Social Engineering,I,2.0,2.0,2.0,0.0
+II-BME,21PDM201L,0.0,0.0,2.0,0-0-2-0,Verbal Reasoning,H,3.0,3.0,2.0,1.0
+II-BME,21PYS202T,3.0,0.0,0.0,3-0-0-3,Medical Physics,E,3.0,3.0,3.0,0.0
+II-ECE-DS-A,21CSS201T,3.0,1.0,0.0,3-1-0-4,Computer Organization and Architecture,C,4.0,4.0,4.0,0.0
+II-ECE-DS-A,21ECC201T,3.0,0.0,0.0,3-0-0-3,Solid State Devices,B,3.0,3.0,3.0,0.0
+II-ECE-DS-A,21ECC203T,3.0,0.0,0.0,3-0-0-3,Digital Logic Design,D,3.0,3.0,3.0,0.0
+II-ECE-DS-A,21ECC205T,3.0,0.0,0.0,3-0-0-3,Electromagnetic Theory and Interference,E,3.0,3.0,3.0,0.0
+II-ECE-DS-A,21ECC211L,0.0,0.0,4.0,0-0-4-2,Devices and Digital IC Laboratory,LAB,4.0,4.0,4.0,0.0
+II-ECE-DS-A,21LEM201T,1.0,0.0,0.0,1-0-0-0,Professional Ethics,F,1.0,1.0,1.0,0.0
+II-ECE-DS-A,21LEM202T,2.0,1.0,0.0,2-1-0-3,Universal Human Values-II,G,3.0,3.0,3.0,0.0
+II-ECE-DS-A,21MAB201T,3.0,1.0,0.0,3-1-0-4,Transforms and Boundary Value Problems,A,4.0,4.0,4.0,0.0
+II-ECE-DS-A,21PDH209T,2.0,0.0,0.0,2-0-0-2,Social Engineering,I,2.0,2.0,2.0,0.0
+II-ECE-DS-A,21PDM201L,0.0,0.0,2.0,0-0-2-0,Verbal Reasoning,H,3.0,3.0,2.0,1.0
+II-ECE-DS-B,21CSS201T,3.0,1.0,0.0,3-1-0-4,Computer Organization and Architecture,C,4.0,4.0,4.0,0.0
+II-ECE-DS-B,21ECC201T,3.0,0.0,0.0,3-0-0-3,Solid State Devices,B,3.0,3.0,3.0,0.0
+II-ECE-DS-B,21ECC203T,3.0,0.0,0.0,3-0-0-3,Digital Logic Design,D,3.0,3.0,3.0,0.0
+II-ECE-DS-B,21ECC205T,3.0,0.0,0.0,3-0-0-3,Electromagnetic Theory and Interference,E,3.0,3.0,3.0,0.0
+II-ECE-DS-B,21ECC211L,0.0,0.0,4.0,0-0-4-2,Devices and Digital IC Laboratory,LAB,4.0,4.0,4.0,0.0
+II-ECE-DS-B,21LEM201T,1.0,0.0,0.0,1-0-0-0,Professional Ethics,F,1.0,1.0,1.0,0.0
+II-ECE-DS-B,21LEM202T,2.0,1.0,0.0,2-1-0-3,Universal Human Values-II,G,3.0,3.0,3.0,0.0
+II-ECE-DS-B,21MAB201T,3.0,1.0,0.0,3-1-0-4,Transforms and Boundary Value Problems,A,4.0,4.0,4.0,0.0
+II-ECE-DS-B,21PDH209T,2.0,0.0,0.0,2-0-0-2,Social Engineering,I,2.0,2.0,2.0,0.0
+II-ECE-DS-B,21PDM201L,0.0,0.0,2.0,0-0-2-0,Verbal Reasoning,H,3.0,3.0,2.0,1.0
+III-BME,21BMC301J,3.0,0.0,2.0,3-0-2-4,Biomedical Signal Processing,C,5.0,5.0,5.0,0.0
+III-BME,21BMC302J,3.0,0.0,2.0,3-0-2-4,Microcontrollers and Its Application in Medicine,B,5.0,5.0,5.0,0.0
+III-BME,21BMC303T,3.0,0.0,0.0,3-0-0-3,Principles of Medical Imaging,F,3.0,3.0,3.0,0.0
+III-BME,21BME266T,3.0,0.0,0.0,3-0-0-3,Biometrics,D,3.0,3.0,3.0,0.0
+III-BME,21ECO103T,3.0,0.0,0.0,3-0-0-3,Modern wireless communication system,E,3.0,3.0,3.0,0.0
+III-BME,21GNP301L,0.0,0.0,2.0,0-0-2-1,Community Connect,I,2.0,2.0,2.0,0.0
+III-BME,21LEM301T,1.0,0.0,0.0,1-0-0-0,Indian Art Form,H,1.0,1.0,1.0,0.0
+III-BME,21MAB301T,3.0,1.0,0.0,3-1-0-4,Probability and Statistics,A,4.0,4.0,4.0,0.0
+III-BME,21PDM301L,0.0,0.0,2.0,0-0-2-0,Analytical and Logical Thinking Skills,G,3.0,3.0,2.0,1.0
+III-ECE-A,21CSO355T,3.0,0.0,0.0,3-0-0-3,Machine learning for all,E,3.0,3.0,3.0,0.0
+III-ECE-A,21ECC301P,3.0,1.0,0.0,3-1-0-4,"Microprocessor, Microcontroller, and Interfacing Techniques",B,4.0,4.0,4.0,0.0
+III-ECE-A,21ECC303T,3.0,0.0,0.0,3-0-0-3,VLSI Design and Technology,C,3.0,3.0,3.0,0.0
+III-ECE-A,21ECC311L,0.0,0.0,4.0,0-0-4-2,VLSI Design/ Microprocessor Laboratory,LAB,4.0,4.0,4.0,0.0
+III-ECE-A,21ECE468T,3.0,0.0,0.0,3-0-0-3,System and Network on Chip,D,3.0,3.0,3.0,0.0
+III-ECE-A,21GNP301L,0.0,0.0,2.0,0-0-2-1,Community connect,F,2.0,2.0,2.0,0.0
+III-ECE-A,21LEM301T,1.0,0.0,0.0,1-0-0-0,Indian Art Form,H,1.0,1.0,1.0,0.0
+III-ECE-A,21MAB302T,3.0,1.0,0.0,3-1-0-4,Discrete Mathematics,A,4.0,4.0,4.0,0.0
+III-ECE-A,21PDM301L,0.0,0.0,2.0,0-0-2-0,Analytical and logical thinking skills,G,3.0,3.0,2.0,1.0
+III-ECE-B,21CSO355T,3.0,0.0,0.0,3-0-0-3,Machine learning for all,E,3.0,3.0,3.0,0.0
+III-ECE-B,21ECC301P,3.0,1.0,0.0,3-1-0-4,"Microprocessor, Microcontroller, and Interfacing Techniques",B,4.0,4.0,4.0,0.0
+III-ECE-B,21ECC303T,3.0,0.0,0.0,3-0-0-3,VLSI Design and Technology,C,3.0,3.0,3.0,0.0
+III-ECE-B,21ECC311L,0.0,0.0,4.0,0-0-4-2,VLSI Design/ Microprocessor Laboratory,LAB,4.0,4.0,4.0,0.0
+III-ECE-B,21ECE468T,3.0,0.0,0.0,3-0-0-3,System and Network on Chip,D,3.0,3.0,3.0,0.0
+III-ECE-B,21GNP301L,0.0,0.0,2.0,0-0-2-1,Community connect,F,2.0,2.0,2.0,0.0
+III-ECE-B,21LEM301T,1.0,0.0,0.0,1-0-0-0,Indian Art Form,H,1.0,1.0,1.0,0.0
+III-ECE-B,21MAB302T,3.0,1.0,0.0,3-1-0-4,Discrete Mathematics,A,4.0,4.0,4.0,0.0
+III-ECE-B,21PDM301L,0.0,0.0,2.0,0-0-2-0,Analytical and logical thinking skills,G,3.0,3.0,2.0,1.0
+III-ECE-DS,21CSO355T,3.0,0.0,0.0,3-0-0-3,Machine learning for all,D,3.0,3.0,3.0,0.0
+III-ECE-DS,21ECC301P,3.0,1.0,0.0,3-1-0-4,"Microprocessor, Microcontroller, and Interfacing Techniques",B,4.0,4.0,4.0,0.0
+III-ECE-DS,21ECC303T,3.0,0.0,0.0,3-0-0-3,VLSI Design and Technology,C,3.0,3.0,3.0,0.0
+III-ECE-DS,21ECC311L,0.0,0.0,4.0,0-0-4-2,VLSI Design/ Microprocessor Laboratory,LAB,4.0,4.0,4.0,0.0
+III-ECE-DS,21ECE371T,3.0,0.0,0.0,3-0-0-3,Database Design and Management,E,3.0,3.0,3.0,0.0
+III-ECE-DS,21GNP301L,0.0,0.0,2.0,0-0-2-1,Community connect,F,2.0,2.0,2.0,0.0
+III-ECE-DS,21LEM301T,1.0,0.0,0.0,1-0-0-0,Indian Art Form,H,1.0,1.0,1.0,0.0
+III-ECE-DS,21MAB302T,3.0,1.0,0.0,3-1-0-4,Discrete Mathematics,A,4.0,4.0,4.0,0.0
+III-ECE-DS,21PDM301L,0.0,0.0,2.0,0-0-2-0,Analytical and logical thinking skills,G,3.0,3.0,2.0,1.0
+IV-ECE-A,21CSO355T,3.0,0.0,0.0,3-0-0-3,Machine learning for all,F,3.0,3.0,3.0,0.0
+IV-ECE-A,21ECC401T,3.0,0.0,0.0,3-0-0-3,Wireless Communication and Antenna Systems,B,3.0,3.0,3.0,0.0
+IV-ECE-A,21ECC402P,2.0,1.0,0.0,2-1-0-3,Computer Communication and Network Security,"C,LAB",4.0,4.0,3.0,1.0
+IV-ECE-A,21ECE461T,3.0,0.0,0.0,3-0-0-3,Semiconductor Memory Design,D,3.0,3.0,3.0,0.0
+IV-ECE-A,21ECE463T,3.0,0.0,0.0,3-0-0-3,Scripting Language for Electronic Design Automation,E,3.0,3.0,3.0,0.0
+IV-ECE-A,21GNH401T,2.0,1.0,0.0,2-1-0-3,Behavioural Psychology,A,3.0,3.0,3.0,0.0
+IV-ECE-B,21CSO355T,3.0,0.0,0.0,3-0-0-3,Machine learning for all,F,3.0,3.0,3.0,0.0
+IV-ECE-B,21ECC401T,3.0,0.0,0.0,3-0-0-3,Wireless Communication and Antenna Systems,B,3.0,3.0,3.0,0.0
+IV-ECE-B,21ECC402P,2.0,1.0,0.0,2-1-0-3,Computer Communication and Network Security,"C,LAB",4.0,4.0,3.0,1.0
+IV-ECE-B,21ECE461T,3.0,0.0,0.0,3-0-0-3,Semiconductor Memory Design,D,3.0,3.0,3.0,0.0
+IV-ECE-B,21ECE463T,3.0,0.0,0.0,3-0-0-3,Scripting Language for Electronic Design Automation,E,3.0,3.0,3.0,0.0
+IV-ECE-B,21GNH401T,2.0,1.0,0.0,2-1-0-3,Behavioural Psychology,A,3.0,3.0,3.0,0.0

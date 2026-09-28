@@ -1,0 +1,14 @@
+file,page,section,pages_in_file,period_rows,rows_visually_verified,raw_ocr_code_recall,ocr_mean_word_conf,handwritten_cells,low_conf_mappings,medium_conf_mappings,empty_slots,duplicates,conflicts,confidence,status
+IV ECE A.pdf,1,IV-ECE-A,1,19,19,0.67,75.6,0,0,0,21,0,0,HIGH,ACTIVE
+IV ECE B.pdf,1,IV-ECE-B,1,19,19,0.83,81.0,0,0,0,21,0,0,HIGH,ACTIVE
+III ECE A.pdf,1,III-ECE-A,1,27,27,0.11,76.2,0,0,1,13,0,0,HIGH-,ACTIVE
+III ECE B.pdf,1,III-ECE-B,1,27,27,0.11,74.2,0,0,1,13,0,0,HIGH-,ACTIVE
+III ECE DS.pdf,1,III-ECE-DS,1,27,27,0.22,86.4,0,0,1,13,0,0,HIGH-,ACTIVE
+III BME.pdf,1,III-BME,1,29,29,0.44,75.3,0,0,4,11,0,0,HIGH-,ACTIVE
+II BME.pdf,1,II-BME,1,29,29,0.67,77.6,0,4,0,11,0,4,MEDIUM,ACTIVE
+II ECE DS A.pdf,1,II-ECE-DS-A,1,30,30,0.8,82.5,0,0,0,10,0,0,HIGH,ACTIVE
+II ECE DS B.pdf,1,II-ECE-DS-B,1,30,30,0.6,81.4,0,0,0,10,0,0,HIGH,ACTIVE
+I year Time Table SEEE.pdf,1,I-ECE-A,4,39,39,0.2,79.8,5,0,2,1,0,0,LOW,EXCLUDED_STALE (2024-25 timetable)
+I year Time Table SEEE.pdf,2,I-ECE-B-EEE,4,39,39,0.55,78.3,7,4,0,3,0,4,LOW,EXCLUDED_STALE (2024-25 timetable)
+I year Time Table SEEE.pdf,3,I-ECE-DS,4,40,40,0.3,80.1,6,0,2,2,0,0,LOW,EXCLUDED_STALE (2024-25 timetable)
+I year Time Table SEEE.pdf,4,I-BIOTECH-B-BME,4,39,39,0.36,77.7,0,2,0,2,0,2,LOW,EXCLUDED_STALE (2024-25 timetable)

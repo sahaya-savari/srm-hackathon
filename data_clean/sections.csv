@@ -1,0 +1,14 @@
+section_id,source_file,page,academic_year,semester_type,year,semester,department,home_venue,bell_schedule,approval_date,valid_for_2026_27,status
+IV-ECE-A,IV ECE A.pdf,1,2026-27,Odd,4,7,ECE,IST 225,GRID_2026,17/07/2026,True,ACTIVE
+IV-ECE-B,IV ECE B.pdf,1,2026-27,Odd,4,7,ECE,IST 227,GRID_2026,17/07/2026,True,ACTIVE
+III-ECE-A,III ECE A.pdf,1,2026-27,Odd,3,5,ECE,IST 518/FN,GRID_2026,17/07/2026,True,ACTIVE
+III-ECE-B,III ECE B.pdf,1,2026-27,Odd,3,5,ECE,IST 518/AN,GRID_2026,17/07/2026,True,ACTIVE
+III-ECE-DS,III ECE DS.pdf,1,2026-27,Odd,3,5,ECE-DS,IST 519/FN,GRID_2026,,True,ACTIVE
+III-BME,III BME.pdf,1,2026-27,Odd,3,5,BME,IST 211 / AN,GRID_2026,,True,ACTIVE
+II-BME,II BME.pdf,1,2026-27,Odd,2,3,BME,IST 602 / FN,GRID_2026,,True,ACTIVE
+II-ECE-DS-A,II ECE DS A.pdf,1,2026-27,Odd,2,3,ECE-DS,IST 416 / FN,GRID_2026,,True,ACTIVE
+II-ECE-DS-B,II ECE DS B.pdf,1,2026-27,Odd,2,3,ECE-DS,IST 411/ AN,GRID_2026,,True,ACTIVE
+I-ECE-A,I year Time Table SEEE.pdf,1,2024-25,Odd,1,1,ECE,IST602 (per cell),GRID_2024_I_YEAR,31/1/25; HOD 03/01/2025,False,EXCLUDED_STALE (2024-25 timetable)
+I-ECE-B-EEE,I year Time Table SEEE.pdf,2,2024-25,Odd,1,1,ECE+EEE (combined),IST602 (per cell),GRID_2024_I_YEAR,3/1/25; HOD 03/01/2025,False,EXCLUDED_STALE (2024-25 timetable)
+I-ECE-DS,I year Time Table SEEE.pdf,3,2024-25,EVEN (header) vs Sem I (body),1,1,ECE-DS,IST502 (per cell),GRID_2024_I_YEAR,3/1/25,False,EXCLUDED_STALE (2024-25 timetable)
+I-BIOTECH-B-BME,I year Time Table SEEE.pdf,4,2024-25,EVEN (header) vs Sem I (body),1,1,Biotech+BME (combined),IST702 (per cell),GRID_2024_I_YEAR,3/1/25; HOD 03/01/2025,False,EXCLUDED_STALE (2024-25 timetable)

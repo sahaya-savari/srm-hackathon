@@ -1,0 +1,119 @@
+             weekly_periods  lab_periods  subjects  first_period  last_period  lab_share  forenoon_periods  afternoon_periods venue_shift_label  Monday  Tuesday  Wednesday  Thursday  Friday busiest_day lightest_day  max_day_load  min_day_load  avg_per_day  semester_scheduled_periods
+section_id                                                                                                                                                                                                                                                                                 
+II-BME                   29            4         9             1            9       0.14                19                 10                FN       6        6          5         6       6      Monday    Wednesday             6             5          5.8                         377
+II-ECE-DS-A              30            4        10             1            9       0.13                20                 10                FN       8        7          5         6       4      Monday       Friday             8             4          6.0                         390
+II-ECE-DS-B              30            4        10             1            9       0.13                10                 20                AN       6        6          5         8       5    Thursday    Wednesday             8             5          6.0                         390
+III-BME                  29            4         9             1            9       0.14                 9                 20                AN       8        7          4         5       5      Monday    Wednesday             8             4          5.8                         377
+III-ECE-A                27            4         9             1            9       0.15                20                  7                FN       6        5          6         4       6      Monday     Thursday             6             4          5.4                         351
+III-ECE-B                27            4         9             1            9       0.15                 7                 20                AN       6        6          5         6       4      Monday       Friday             6             4          5.4                         351
+III-ECE-DS               27            4         9             1            9       0.15                20                  7                FN       4        6          6         4       7      Friday       Monday             7             4          5.4                         351
+IV-ECE-A                 19            1         6             1            4       0.05                19                  0                 -       3        4          4         4       4     Tuesday       Monday             4             3          3.8                         247
+IV-ECE-B                 19            1         6             1            4       0.05                19                  0                 -       4        4          4         4       3      Monday       Friday             4             3          3.8                         247
+period
+1    41
+2    36
+3    34
+4    32
+6    25
+7    25
+8    22
+9    22
+class_type   lab  practical  project  skill  theory
+section_id                                         
+II-BME         4          0        0      3      22
+II-ECE-DS-A    4          0        0      3      23
+II-ECE-DS-B    4          0        0      3      23
+III-BME        4          2        0      3      20
+III-ECE-A      4          2        1      3      17
+III-ECE-B      4          2        1      3      17
+III-ECE-DS     4          2        1      3      17
+IV-ECE-A       1          0        0      0      18
+IV-ECE-B       1          0        0      0      18
+per_week
+1     7
+2     7
+3    42
+4    20
+5     2
+issue                    severity
+AMBIGUOUS_BATCH_LAB      high         1
+CLASS_IN_LUNCH_PERIOD    medium       1
+CODE_VARIANT             medium       1
+CONTACT_HOURS_MISMATCH   high         7
+                         medium      17
+DIFFERENT_BELL_SCHEDULE  high         1
+DUPLICATE_CODE_IN_TABLE  low          2
+FACULTY_NAME_TYPO        low          1
+FACULTY_NAME_VARIANT     low         14
+FADED_CELL               medium       1
+FILE_SECTION_MISMATCH    high         1
+HANDWRITTEN_EDITS        medium       1
+HEADER_CONTRADICTION     high         1
+HEADER_TYPO              low          1
+LAB_LABEL_NOT_SLOT       medium       1
+LAB_WITHOUT_P_CREDIT     medium       1
+LTPC_MISSING             medium       2
+MISSING_FACULTY          low          1
+NO_HOLIDAY_CALENDAR      critical     1
+PLACEHOLDER_FACULTY      low          1
+PROJECT_HOUR_LABEL       medium       1
+SATURDAY_UNSPECIFIED     high         1
+SLOT_LETTERS_NOT_STABLE  high         1
+STALE_TIMETABLE          critical     4
+                          file  page          section  pages_in_file  period_rows  rows_visually_verified  raw_ocr_code_recall  ocr_mean_word_conf  handwritten_cells  low_conf_mappings  medium_conf_mappings  empty_slots  duplicates  conflicts confidence                              status
+0                 IV ECE A.pdf     1         IV-ECE-A              1           19                      19                 0.67                75.6                  0                  0                     0           21           0          0       HIGH                              ACTIVE
+1                 IV ECE B.pdf     1         IV-ECE-B              1           19                      19                 0.83                81.0                  0                  0                     0           21           0          0       HIGH                              ACTIVE
+2                III ECE A.pdf     1        III-ECE-A              1           27                      27                 0.11                76.2                  0                  0                     1           13           0          0      HIGH-                              ACTIVE
+3                III ECE B.pdf     1        III-ECE-B              1           27                      27                 0.11                74.2                  0                  0                     1           13           0          0      HIGH-                              ACTIVE
+4               III ECE DS.pdf     1       III-ECE-DS              1           27                      27                 0.22                86.4                  0                  0                     1           13           0          0      HIGH-                              ACTIVE
+5                  III BME.pdf     1          III-BME              1           29                      29                 0.44                75.3                  0                  0                     4           11           0          0      HIGH-                              ACTIVE
+6                   II BME.pdf     1           II-BME              1           29                      29                 0.67                77.6                  0                  4                     0           11           0          4     MEDIUM                              ACTIVE
+7              II ECE DS A.pdf     1      II-ECE-DS-A              1           30                      30                 0.80                82.5                  0                  0                     0           10           0          0       HIGH                              ACTIVE
+8              II ECE DS B.pdf     1      II-ECE-DS-B              1           30                      30                 0.60                81.4                  0                  0                     0           10           0          0       HIGH                              ACTIVE
+9   I year Time Table SEEE.pdf     1          I-ECE-A              4           39                      39                 0.20                79.8                  5                  0                     2            1           0          0        LOW  EXCLUDED_STALE (2024-25 timetable)
+10  I year Time Table SEEE.pdf     2      I-ECE-B-EEE              4           39                      39                 0.55                78.3                  7                  4                     0            3           0          4        LOW  EXCLUDED_STALE (2024-25 timetable)
+11  I year Time Table SEEE.pdf     3         I-ECE-DS              4           40                      40                 0.30                80.1                  6                  0                     2            2           0          0        LOW  EXCLUDED_STALE (2024-25 timetable)
+12  I year Time Table SEEE.pdf     4  I-BIOTECH-B-BME              4           39                      39                 0.36                77.7                  0                  2                     0            2           0          2        LOW  EXCLUDED_STALE (2024-25 timetable)
+          section_id subject_code     slots     ltpc  weekly_periods_incl_ambiguous_share  expected_LTP  delta
+0    I-BIOTECH-B-BME    21BTB104T         G  2-0-0-2                                  0.5           2.0   -1.5
+1    I-BIOTECH-B-BME    21BTC101T         F  3-0-0-3                                  2.5           3.0   -0.5
+2    I-BIOTECH-B-BME    21BTC105T         C  2-0-0-2                                  2.5           2.0    0.5
+7    I-BIOTECH-B-BME    21LEH105T  Japanese  2-1-0-3                                  6.0           3.0    3.0
+10   I-BIOTECH-B-BME    21PDM102L       CDC  0-0-2-0                                  3.0           2.0    1.0
+11           I-ECE-A    21BTB102J         C  2-0-0-2                                  4.0           2.0    2.0
+17           I-ECE-A    21LEH104T    German  2-1-0-3                                  6.0           3.0    3.0
+20           I-ECE-A    21PDM102L       CDC  0-0-2-0                                  3.0           2.0    1.0
+21       I-ECE-B-EEE    21BTB102J         F  MISSING                                  2.0           NaN    NaN
+25       I-ECE-B-EEE    21EEC101J         G  MISSING                                  2.0           NaN    NaN
+28       I-ECE-B-EEE    21LEH104T    German  2-1-0-3                                  6.0           3.0    3.0
+31       I-ECE-B-EEE    21PDM102L       CDC  0-0-2-0                                  3.0           2.0    1.0
+32          I-ECE-DS    21BTB102J         C  2-0-0-2                                  4.0           2.0    2.0
+34          I-ECE-DS    21CSS101J         D  3-0-2-4                                  6.0           5.0    1.0
+38          I-ECE-DS    21LEH104T    German  2-1-0-3                                  6.0           3.0    3.0
+41          I-ECE-DS    21PDM102L       CDC  0-0-2-0                                  3.0           2.0    1.0
+44            II-BME    21BMC204J         D  2-0-2-3                                  5.0           4.0    1.0
+49            II-BME    21PDM201L         H  0-0-2-0                                  3.0           2.0    1.0
+60       II-ECE-DS-A    21PDM201L         H  0-0-2-0                                  3.0           2.0    1.0
+70       II-ECE-DS-B    21PDM201L         H  0-0-2-0                                  3.0           2.0    1.0
+79           III-BME    21PDM301L         G  0-0-2-0                                  3.0           2.0    1.0
+88         III-ECE-A    21PDM301L         G  0-0-2-0                                  3.0           2.0    1.0
+97         III-ECE-B    21PDM301L         G  0-0-2-0                                  3.0           2.0    1.0
+106       III-ECE-DS    21PDM301L         G  0-0-2-0                                  3.0           2.0    1.0
+109         IV-ECE-A    21ECC402P     C,LAB  2-1-0-3                                  4.0           3.0    1.0
+115         IV-ECE-B    21ECC402P     C,LAB  2-1-0-3                                  4.0           3.0    1.0
+   section_id                 issue severity                                                                                                  detail
+28          *          CODE_VARIANT   medium   'social engineering' has codes ['21PDH201T', '21PDH209T'] in ['II-BME', 'II-ECE-DS-A', 'II-ECE-DS-B']
+30          *  FACULTY_NAME_VARIANT      low                                 possible same person: ['Dr. Prabin Kumar Bera', 'Dr.Prabin Kumar Bera']
+31          *  FACULTY_NAME_VARIANT      low  possible same person: ['Dr. Prassanna Venkatesh', 'Dr.N.Prasana venkatesh', 'Dr.N.Prasanna Venkatesh']
+32          *  FACULTY_NAME_VARIANT      low                                   possible same person: ['Mrs.T.Swetha', 'Ms. T.Swetha', 'Ms.T.Swetha']
+33          *  FACULTY_NAME_VARIANT      low                               possible same person: ['NEW FACULTY 3', 'New Faculty 3', 'New faculty 2']
+34          *  FACULTY_NAME_VARIANT      low                                                     possible same person: ['Dr. A.Anand', 'Dr.A.Anand']
+35          *  FACULTY_NAME_VARIANT      low                                           possible same person: ['Dr.M.Manikandan', 'Dr.V. Manikandan']
+36          *  FACULTY_NAME_VARIANT      low                            possible same person: ['Dr. H. Sri Bhuvaneshwari', 'Dr. H.SriBhuvaneshwari']
+37          *  FACULTY_NAME_VARIANT      low                                       possible same person: ['Dr. S.Jeevanantham', 'Dr.S.Jeevanantham']
+38          *  FACULTY_NAME_VARIANT      low                                               possible same person: ['Mrs.D. Lavanya', 'Mrs.D.Lavanya']
+39          *  FACULTY_NAME_VARIANT      low                                                   possible same person: ['CDC', 'CDC – 625', 'CDC-625']
+40          *  FACULTY_NAME_VARIANT      low                                              possible same person: ['Dr. V.Bharathi', 'Dr.V. Bharathi']
+41          *  FACULTY_NAME_VARIANT      low                                                   possible same person: ['CDC – TB -106', 'CDC-TB-106']
+42          *  FACULTY_NAME_VARIANT      low                                      possible same person: ['Dr. K. Vigneshwaran', 'Dr.K.Vigneshwaran']
+43          *  FACULTY_NAME_VARIANT      low                                           possible same person: ['Dr. R. Vinothraj', 'Dr.R.Vinoth Raj']

@@ -1,0 +1,395 @@
+section_id,day_of_week,weekday_idx,period,start_time,end_time,block_start,block_end,block_len,raw_cell,slot,subject_code,subject_name,class_type,is_lab,room,source_file,page,visual_verified,handwritten,faded,mapping_confidence,mapping_rule,in_lunch_period,valid_for_2026_27
+IV-ECE-A,Monday,0,1,09:00,09:50,1,1,1,C,C,21ECC402P,Computer Communication and Network Security,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Monday,0,3,10:50,11:40,3,3,1,A,A,21GNH401T,Behavioural Psychology,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Monday,0,4,11:40,12:30,4,4,1,D,D,21ECE461T,Semiconductor Memory Design,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Tuesday,1,1,09:00,09:50,1,1,1,C,C,21ECC402P,Computer Communication and Network Security,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Tuesday,1,2,09:50,10:40,2,2,1,D,D,21ECE461T,Semiconductor Memory Design,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Tuesday,1,3,10:50,11:40,3,3,1,B,B,21ECC401T,Wireless Communication and Antenna Systems,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Tuesday,1,4,11:40,12:30,4,4,1,F,F,21CSO355T,Machine learning for all,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Wednesday,2,1,09:00,09:50,1,1,1,B,B,21ECC401T,Wireless Communication and Antenna Systems,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Wednesday,2,2,09:50,10:40,2,2,1,LAB - IST 108,LAB,21ECC402P,Computer Communication and Network Security,lab,True,IST108,IV ECE A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+IV-ECE-A,Wednesday,2,3,10:50,11:40,3,3,1,E,E,21ECE463T,Scripting Language for Electronic Design Automation,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Wednesday,2,4,11:40,12:30,4,4,1,F,F,21CSO355T,Machine learning for all,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Thursday,3,1,09:00,09:50,1,1,1,F,F,21CSO355T,Machine learning for all,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Thursday,3,2,09:50,10:40,2,2,1,A,A,21GNH401T,Behavioural Psychology,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Thursday,3,3,10:50,11:40,3,3,1,E,E,21ECE463T,Scripting Language for Electronic Design Automation,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Thursday,3,4,11:40,12:30,4,4,1,B,B,21ECC401T,Wireless Communication and Antenna Systems,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Friday,4,1,09:00,09:50,1,1,1,C,C,21ECC402P,Computer Communication and Network Security,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Friday,4,2,09:50,10:40,2,2,1,A,A,21GNH401T,Behavioural Psychology,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Friday,4,3,10:50,11:40,3,3,1,D,D,21ECE461T,Semiconductor Memory Design,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-A,Friday,4,4,11:40,12:30,4,4,1,E,E,21ECE463T,Scripting Language for Electronic Design Automation,theory,False,,IV ECE A.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Monday,0,1,09:00,09:50,1,1,1,C,C,21ECC402P,Computer Communication and Network Security,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Monday,0,2,09:50,10:40,2,2,1,A,A,21GNH401T,Behavioural Psychology,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Monday,0,3,10:50,11:40,3,3,1,E,E,21ECE463T,Scripting Language for Electronic Design Automation,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Monday,0,4,11:40,12:30,4,4,1,F,F,21CSO355T,Machine learning for all,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Tuesday,1,1,09:00,09:50,1,1,1,C,C,21ECC402P,Computer Communication and Network Security,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Tuesday,1,2,09:50,10:40,2,2,1,E,E,21ECE463T,Scripting Language for Electronic Design Automation,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Tuesday,1,3,10:50,11:40,3,3,1,F,F,21CSO355T,Machine learning for all,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Tuesday,1,4,11:40,12:30,4,4,1,B,B,21ECC401T,Wireless Communication and Antenna Systems,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Wednesday,2,1,09:00,09:50,1,1,1,C,C,21ECC402P,Computer Communication and Network Security,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Wednesday,2,2,09:50,10:40,2,2,1,D,D,21ECE461T,Semiconductor Memory Design,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Wednesday,2,3,10:50,11:40,3,3,1,A,A,21GNH401T,Behavioural Psychology,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Wednesday,2,4,11:40,12:30,4,4,1,B,B,21ECC401T,Wireless Communication and Antenna Systems,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Thursday,3,1,09:00,09:50,1,1,1,D,D,21ECE461T,Semiconductor Memory Design,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Thursday,3,2,09:50,10:40,2,2,1,B,B,21ECC401T,Wireless Communication and Antenna Systems,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Thursday,3,3,10:50,11:40,3,3,1,LAB - IST 108,LAB,21ECC402P,Computer Communication and Network Security,lab,True,IST108,IV ECE B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+IV-ECE-B,Thursday,3,4,11:40,12:30,4,4,1,A,A,21GNH401T,Behavioural Psychology,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Friday,4,1,09:00,09:50,1,1,1,E,E,21ECE463T,Scripting Language for Electronic Design Automation,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Friday,4,2,09:50,10:40,2,2,1,D,D,21ECE461T,Semiconductor Memory Design,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+IV-ECE-B,Friday,4,3,10:50,11:40,3,3,1,F,F,21CSO355T,Machine learning for all,theory,False,,IV ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Monday,0,1,09:00,09:50,1,1,1,E,E,21CSO355T,Machine learning for all,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Monday,0,2,09:50,10:40,2,2,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Monday,0,3,10:50,11:40,3,3,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Monday,0,4,11:40,12:30,4,4,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Monday,0,6,13:20,14:10,6,7,2,G – 625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-A,Monday,0,7,14:10,15:00,6,7,2,G – 625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-A,Tuesday,1,1,09:00,09:50,1,1,1,H,H,21LEM301T,Indian Art Form,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Tuesday,1,2,09:50,10:40,2,2,1,D,D,21ECE468T,System and Network on Chip,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Tuesday,1,3,10:50,11:40,3,3,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Tuesday,1,4,11:40,12:30,4,4,1,B-Proj,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",project,False,,III ECE A.pdf,1,True,False,False,medium,"'B-Proj' read as project hour of slot B (21ECC301P, a 'P' project-based course; makes B total 4 = L+T)",False,True
+III-ECE-A,Tuesday,1,7,14:10,15:00,7,7,1,G - 625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-A,Wednesday,2,1,09:00,09:50,1,1,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Wednesday,2,2,09:50,10:40,2,2,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Wednesday,2,3,10:50,11:40,3,3,1,D,D,21ECE468T,System and Network on Chip,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Wednesday,2,4,11:40,12:30,4,4,1,F,F,21GNP301L,Community connect,practical,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Wednesday,2,8,15:10,16:00,8,9,2,LAB-108/309,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/309,III ECE A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-A,Wednesday,2,9,16:00,16:50,8,9,2,LAB-108/309,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/309,III ECE A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-A,Thursday,3,1,09:00,09:50,1,1,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Thursday,3,2,09:50,10:40,2,2,1,E,E,21CSO355T,Machine learning for all,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Thursday,3,3,10:50,11:40,3,3,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Thursday,3,4,11:40,12:30,4,4,1,F,F,21GNP301L,Community connect,practical,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Friday,4,1,09:00,09:50,1,1,1,D,D,21ECE468T,System and Network on Chip,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Friday,4,2,09:50,10:40,2,2,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Friday,4,3,10:50,11:40,3,3,1,E,E,21CSO355T,Machine learning for all,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Friday,4,4,11:40,12:30,4,4,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE A.pdf,1,True,False,False,high,,False,True
+III-ECE-A,Friday,4,6,13:20,14:10,6,7,2,LAB-108/309,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/309,III ECE A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-A,Friday,4,7,14:10,15:00,6,7,2,LAB-108/309,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/309,III ECE A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-B,Monday,0,1,09:00,09:50,1,2,2,LAB-108/309,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/309,III ECE B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-B,Monday,0,2,09:50,10:40,1,2,2,LAB-108/309,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/309,III ECE B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-B,Monday,0,6,13:20,14:10,6,6,1,E,E,21CSO355T,Machine learning for all,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Monday,0,7,14:10,15:00,7,7,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Monday,0,8,15:10,16:00,8,8,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Monday,0,9,16:00,16:50,9,9,1,D,D,21ECE468T,System and Network on Chip,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Tuesday,1,1,09:00,09:50,1,2,2,G-625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-B,Tuesday,1,2,09:50,10:40,1,2,2,G-625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-B,Tuesday,1,6,13:20,14:10,6,6,1,F,F,21GNP301L,Community connect,practical,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Tuesday,1,7,14:10,15:00,7,7,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Tuesday,1,8,15:10,16:00,8,8,1,D,D,21ECE468T,System and Network on Chip,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Tuesday,1,9,16:00,16:50,9,9,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Wednesday,2,1,09:00,09:50,1,1,1,G - 625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-B,Wednesday,2,6,13:20,14:10,6,6,1,B-Proj,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",project,False,,III ECE B.pdf,1,True,False,False,medium,"'B-Proj' read as project hour of slot B (21ECC301P, a 'P' project-based course; makes B total 4 = L+T)",False,True
+III-ECE-B,Wednesday,2,7,14:10,15:00,7,7,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Wednesday,2,8,15:10,16:00,8,8,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Wednesday,2,9,16:00,16:50,9,9,1,H,H,21LEM301T,Indian Art Form,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Thursday,3,1,09:00,09:50,1,2,2,LAB-108/309,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/309,III ECE B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-B,Thursday,3,2,09:50,10:40,1,2,2,LAB-108/309,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/309,III ECE B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-B,Thursday,3,6,13:20,14:10,6,6,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Thursday,3,7,14:10,15:00,7,7,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Thursday,3,8,15:10,16:00,8,8,1,E,E,21CSO355T,Machine learning for all,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Thursday,3,9,16:00,16:50,9,9,1,F,F,21GNP301L,Community connect,practical,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Friday,4,6,13:20,14:10,6,6,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Friday,4,7,14:10,15:00,7,7,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Friday,4,8,15:10,16:00,8,8,1,E,E,21CSO355T,Machine learning for all,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-B,Friday,4,9,16:00,16:50,9,9,1,D,D,21ECE468T,System and Network on Chip,theory,False,,III ECE B.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Monday,0,1,09:00,09:50,1,1,1,E,E,21ECE371T,Database Design and Management,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Monday,0,2,09:50,10:40,2,2,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Monday,0,3,10:50,11:40,3,3,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Monday,0,4,11:40,12:30,4,4,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Tuesday,1,1,09:00,09:50,1,1,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Tuesday,1,2,09:50,10:40,2,2,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Tuesday,1,3,10:50,11:40,3,3,1,D,D,21CSO355T,Machine learning for all,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Tuesday,1,4,11:40,12:30,4,4,1,F,F,21GNP301L,Community connect,practical,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Tuesday,1,6,13:20,14:10,6,7,2,LAB-108/107,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/107,III ECE DS.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-DS,Tuesday,1,7,14:10,15:00,6,7,2,LAB-108/107,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/107,III ECE DS.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-DS,Wednesday,2,1,09:00,09:50,1,1,1,H,H,21LEM301T,Indian Art Form,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Wednesday,2,2,09:50,10:40,2,2,1,B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Wednesday,2,3,10:50,11:40,3,3,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Wednesday,2,4,11:40,12:30,4,4,1,C,C,21ECC303T,VLSI Design and Technology,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Wednesday,2,8,15:10,16:00,8,9,2,G-625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE DS.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-DS,Wednesday,2,9,16:00,16:50,8,9,2,G-625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE DS.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-DS,Thursday,3,1,09:00,09:50,1,1,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Thursday,3,2,09:50,10:40,2,2,1,D,D,21CSO355T,Machine learning for all,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Thursday,3,3,10:50,11:40,3,3,1,E,E,21ECE371T,Database Design and Management,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Thursday,3,4,11:40,12:30,4,4,1,F,F,21GNP301L,Community connect,practical,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Friday,4,1,09:00,09:50,1,1,1,D,D,21CSO355T,Machine learning for all,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Friday,4,2,09:50,10:40,2,2,1,A,A,21MAB302T,Discrete Mathematics,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Friday,4,3,10:50,11:40,3,3,1,E,E,21ECE371T,Database Design and Management,theory,False,,III ECE DS.pdf,1,True,False,False,high,,False,True
+III-ECE-DS,Friday,4,4,11:40,12:30,4,4,1,B-Proj,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",project,False,,III ECE DS.pdf,1,True,False,False,medium,"'B-Proj' read as project hour of slot B (21ECC301P, a 'P' project-based course; makes B total 4 = L+T)",False,True
+III-ECE-DS,Friday,4,6,13:20,14:10,6,6,1,G-625,G,21PDM301L,Analytical and logical thinking skills,skill,False,625,III ECE DS.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-ECE-DS,Friday,4,8,15:10,16:00,8,9,2,LAB-108/107,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/107,III ECE DS.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-ECE-DS,Friday,4,9,16:00,16:50,8,9,2,LAB-108/107,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,lab,True,108/107,III ECE DS.pdf,1,True,False,False,high,Lab row of subject table,False,True
+III-BME,Monday,0,1,09:00,09:50,1,2,2,G-625,G,21PDM301L,Analytical and Logical Thinking Skills,skill,False,625,III BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-BME,Monday,0,2,09:50,10:40,1,2,2,G-625,G,21PDM301L,Analytical and Logical Thinking Skills,skill,False,625,III BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-BME,Monday,0,3,10:50,11:40,3,4,2,MPMC LAB-107,B,21BMC302J,Microcontrollers and Its Application in Medicine,lab,True,107,III BME.pdf,1,True,False,False,medium,'MPMC' = Microcontrollers practical; only 3-0-2 course with MPMC content is slot B (21BMC302J),False,True
+III-BME,Monday,0,4,11:40,12:30,3,4,2,MPMC LAB-107,B,21BMC302J,Microcontrollers and Its Application in Medicine,lab,True,107,III BME.pdf,1,True,False,False,medium,'MPMC' = Microcontrollers practical; only 3-0-2 course with MPMC content is slot B (21BMC302J),False,True
+III-BME,Monday,0,6,13:20,14:10,6,6,1,E,E,21ECO103T,Modern wireless communication system,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Monday,0,7,14:10,15:00,7,7,1,B,B,21BMC302J,Microcontrollers and Its Application in Medicine,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Monday,0,8,15:10,16:00,8,8,1,F,F,21BMC303T,Principles of Medical Imaging,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Monday,0,9,16:00,16:50,9,9,1,H,H,21LEM301T,Indian Art Form,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Tuesday,1,1,09:00,09:50,1,2,2,BIO DSP LAB-108,C,21BMC301J,Biomedical Signal Processing,lab,True,108,III BME.pdf,1,True,False,False,medium,'BIO DSP' = Biomedical Signal Processing practical -> slot C (21BMC301J),False,True
+III-BME,Tuesday,1,2,09:50,10:40,1,2,2,BIO DSP LAB-108,C,21BMC301J,Biomedical Signal Processing,lab,True,108,III BME.pdf,1,True,False,False,medium,'BIO DSP' = Biomedical Signal Processing practical -> slot C (21BMC301J),False,True
+III-BME,Tuesday,1,3,10:50,11:40,3,3,1,G-625,G,21PDM301L,Analytical and Logical Thinking Skills,skill,False,625,III BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-BME,Tuesday,1,6,13:20,14:10,6,6,1,C,C,21BMC301J,Biomedical Signal Processing,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Tuesday,1,7,14:10,15:00,7,7,1,D,D,21BME266T,Biometrics,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Tuesday,1,8,15:10,16:00,8,8,1,A,A,21MAB301T,Probability and Statistics,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Tuesday,1,9,16:00,16:50,9,9,1,B,B,21BMC302J,Microcontrollers and Its Application in Medicine,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Wednesday,2,6,13:20,14:10,6,6,1,C,C,21BMC301J,Biomedical Signal Processing,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Wednesday,2,7,14:10,15:00,7,7,1,A,A,21MAB301T,Probability and Statistics,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Wednesday,2,8,15:10,16:00,8,8,1,F,F,21BMC303T,Principles of Medical Imaging,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Wednesday,2,9,16:00,16:50,9,9,1,D,D,21BME266T,Biometrics,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Thursday,3,4,11:40,12:30,4,4,1,I-108,I,21GNP301L,Community Connect,practical,False,108,III BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-BME,Thursday,3,6,13:20,14:10,6,6,1,A,A,21MAB301T,Probability and Statistics,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Thursday,3,7,14:10,15:00,7,7,1,C,C,21BMC301J,Biomedical Signal Processing,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Thursday,3,8,15:10,16:00,8,8,1,E,E,21ECO103T,Modern wireless communication system,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Thursday,3,9,16:00,16:50,9,9,1,B,B,21BMC302J,Microcontrollers and Its Application in Medicine,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Friday,4,1,09:00,09:50,1,1,1,I-108,I,21GNP301L,Community Connect,practical,False,108,III BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+III-BME,Friday,4,6,13:20,14:10,6,6,1,F,F,21BMC303T,Principles of Medical Imaging,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Friday,4,7,14:10,15:00,7,7,1,A,A,21MAB301T,Probability and Statistics,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Friday,4,8,15:10,16:00,8,8,1,D,D,21BME266T,Biometrics,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+III-BME,Friday,4,9,16:00,16:50,9,9,1,E,E,21ECO103T,Modern wireless communication system,theory,False,,III BME.pdf,1,True,False,False,high,,False,True
+II-BME,Monday,0,1,09:00,09:50,1,1,1,E,E,21PYS202T,Medical Physics,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Monday,0,2,09:50,10:40,2,2,1,C,C,21BMC203J,Electric and Electronic Circuits,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Monday,0,3,10:50,11:40,3,4,2,I,I,21PDH201T,Social Engineering,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Monday,0,4,11:40,12:30,3,4,2,I,I,21PDH201T,Social Engineering,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Monday,0,6,13:20,14:10,6,7,2,"DLMS/EEC-107,309",C|D,21BMC203J|21BMC204J,Electric and Electronic Circuits | Digital Logic for Medical Systems,lab,True,"107,309",II BME.pdf,1,True,False,False,low,Batch lab shared by C (21BMC203J EEC) and D (21BMC204J DLMS); which course a given student attends on which day is not stated,False,True
+II-BME,Monday,0,7,14:10,15:00,6,7,2,"DLMS/EEC-107,309",C|D,21BMC203J|21BMC204J,Electric and Electronic Circuits | Digital Logic for Medical Systems,lab,True,"107,309",II BME.pdf,1,True,False,False,low,Batch lab shared by C (21BMC203J EEC) and D (21BMC204J DLMS); which course a given student attends on which day is not stated,False,True
+II-BME,Tuesday,1,1,09:00,09:50,1,1,1,C,C,21BMC203J,Electric and Electronic Circuits,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Tuesday,1,2,09:50,10:40,2,2,1,E,E,21PYS202T,Medical Physics,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Tuesday,1,3,10:50,11:40,3,3,1,B,B,21BMC202T,Biomedical Signals and Systems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Tuesday,1,4,11:40,12:30,4,4,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Tuesday,1,6,13:20,14:10,6,7,2,H-TB-106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-BME,Tuesday,1,7,14:10,15:00,6,7,2,H-TB-106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-BME,Wednesday,2,1,09:00,09:50,1,1,1,B,B,21BMC202T,Biomedical Signals and Systems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Wednesday,2,2,09:50,10:40,2,2,1,D,D,21BMC204J,Digital Logic for Medical Systems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Wednesday,2,3,10:50,11:40,3,3,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Wednesday,2,6,13:20,14:10,6,6,1,H-TB-106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-BME,Wednesday,2,7,14:10,15:00,7,7,1,G-602,G,21LEM202T,Universal Human Values-II,theory,False,602,II BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-BME,Thursday,3,1,09:00,09:50,1,1,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Thursday,3,2,09:50,10:40,2,2,1,E,E,21PYS202T,Medical Physics,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Thursday,3,3,10:50,11:40,3,3,1,B,B,21BMC202T,Biomedical Signals and Systems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Thursday,3,4,11:40,12:30,4,4,1,D,D,21BMC204J,Digital Logic for Medical Systems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Thursday,3,8,15:10,16:00,8,9,2,"DLMS/EEC-107,309",C|D,21BMC203J|21BMC204J,Electric and Electronic Circuits | Digital Logic for Medical Systems,lab,True,"107,309",II BME.pdf,1,True,False,False,low,Batch lab shared by C (21BMC203J EEC) and D (21BMC204J DLMS); which course a given student attends on which day is not stated,False,True
+II-BME,Thursday,3,9,16:00,16:50,8,9,2,"DLMS/EEC-107,309",C|D,21BMC203J|21BMC204J,Electric and Electronic Circuits | Digital Logic for Medical Systems,lab,True,"107,309",II BME.pdf,1,True,False,False,low,Batch lab shared by C (21BMC203J EEC) and D (21BMC204J DLMS); which course a given student attends on which day is not stated,False,True
+II-BME,Friday,4,1,09:00,09:50,1,1,1,F,F,21LEM201T,Professional Ethics,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Friday,4,2,09:50,10:40,2,2,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Friday,4,3,10:50,11:40,3,3,1,C,C,21BMC203J,Electric and Electronic Circuits,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Friday,4,4,11:40,12:30,4,4,1,D,D,21BMC204J,Digital Logic for Medical Systems,theory,False,,II BME.pdf,1,True,False,False,high,,False,True
+II-BME,Friday,4,8,15:10,16:00,8,9,2,G-602,G,21LEM202T,Universal Human Values-II,theory,False,602,II BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-BME,Friday,4,9,16:00,16:50,8,9,2,G-602,G,21LEM202T,Universal Human Values-II,theory,False,602,II BME.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-A,Monday,0,1,09:00,09:50,1,1,1,E,E,21ECC205T,Electromagnetic Theory and Interference,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Monday,0,2,09:50,10:40,2,2,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Monday,0,3,10:50,11:40,3,4,2,I,I,21PDH209T,Social Engineering,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Monday,0,4,11:40,12:30,3,4,2,I,I,21PDH209T,Social Engineering,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Monday,0,6,13:20,14:10,6,7,2,G-602,G,21LEM202T,Universal Human Values-II,theory,False,602,II ECE DS A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-A,Monday,0,7,14:10,15:00,6,7,2,G-602,G,21LEM202T,Universal Human Values-II,theory,False,602,II ECE DS A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-A,Monday,0,8,15:10,16:00,8,9,2,LAB -309/107,LAB,21ECC211L,Devices and Digital IC Laboratory,lab,True,309/107,II ECE DS A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+II-ECE-DS-A,Monday,0,9,16:00,16:50,8,9,2,LAB -309/107,LAB,21ECC211L,Devices and Digital IC Laboratory,lab,True,309/107,II ECE DS A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+II-ECE-DS-A,Tuesday,1,1,09:00,09:50,1,1,1,C,C,21CSS201T,Computer Organization and Architecture,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Tuesday,1,2,09:50,10:40,2,2,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Tuesday,1,3,10:50,11:40,3,3,1,E,E,21ECC205T,Electromagnetic Theory and Interference,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Tuesday,1,4,11:40,12:30,4,4,1,D,D,21ECC203T,Digital Logic Design,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Tuesday,1,6,13:20,14:10,6,6,1,G-602,G,21LEM202T,Universal Human Values-II,theory,False,602,II ECE DS A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-A,Tuesday,1,8,15:10,16:00,8,9,2,H-TB -106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II ECE DS A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-A,Tuesday,1,9,16:00,16:50,8,9,2,H-TB -106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II ECE DS A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-A,Wednesday,2,1,09:00,09:50,1,1,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Wednesday,2,2,09:50,10:40,2,2,1,B,B,21ECC201T,Solid State Devices,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Wednesday,2,3,10:50,11:40,3,3,1,C,C,21CSS201T,Computer Organization and Architecture,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Wednesday,2,4,11:40,12:30,4,4,1,D,D,21ECC203T,Digital Logic Design,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Wednesday,2,7,14:10,15:00,7,7,1,H-TB - 106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II ECE DS A.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-A,Thursday,3,1,09:00,09:50,1,1,1,B,B,21ECC201T,Solid State Devices,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Thursday,3,2,09:50,10:40,2,2,1,C,C,21CSS201T,Computer Organization and Architecture,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Thursday,3,3,10:50,11:40,3,3,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Thursday,3,4,11:40,12:30,4,4,1,F,F,21LEM201T,Professional Ethics,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Thursday,3,6,13:20,14:10,6,7,2,LAB -309/107,LAB,21ECC211L,Devices and Digital IC Laboratory,lab,True,309/107,II ECE DS A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+II-ECE-DS-A,Thursday,3,7,14:10,15:00,6,7,2,LAB -309/107,LAB,21ECC211L,Devices and Digital IC Laboratory,lab,True,309/107,II ECE DS A.pdf,1,True,False,False,high,Lab row of subject table,False,True
+II-ECE-DS-A,Friday,4,1,09:00,09:50,1,1,1,D,D,21ECC203T,Digital Logic Design,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Friday,4,2,09:50,10:40,2,2,1,B,B,21ECC201T,Solid State Devices,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Friday,4,3,10:50,11:40,3,3,1,E,E,21ECC205T,Electromagnetic Theory and Interference,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-A,Friday,4,4,11:40,12:30,4,4,1,C,C,21CSS201T,Computer Organization and Architecture,theory,False,,II ECE DS A.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Monday,0,3,10:50,11:40,3,4,2,LAB -309/107,LAB,21ECC211L,Devices and Digital IC Laboratory,lab,True,309/107,II ECE DS B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+II-ECE-DS-B,Monday,0,4,11:40,12:30,3,4,2,LAB -309/107,LAB,21ECC211L,Devices and Digital IC Laboratory,lab,True,309/107,II ECE DS B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+II-ECE-DS-B,Monday,0,6,13:20,14:10,6,6,1,D,D,21ECC203T,Digital Logic Design,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Monday,0,7,14:10,15:00,7,7,1,B,B,21ECC201T,Solid State Devices,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Monday,0,8,15:10,16:00,8,8,1,C,C,21CSS201T,Computer Organization and Architecture,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Monday,0,9,16:00,16:50,9,9,1,I,I,21PDH209T,Social Engineering,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Tuesday,1,1,09:00,09:50,1,2,2,LAB -309/107,LAB,21ECC211L,Devices and Digital IC Laboratory,lab,True,309/107,II ECE DS B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+II-ECE-DS-B,Tuesday,1,2,09:50,10:40,1,2,2,LAB -309/107,LAB,21ECC211L,Devices and Digital IC Laboratory,lab,True,309/107,II ECE DS B.pdf,1,True,False,False,high,Lab row of subject table,False,True
+II-ECE-DS-B,Tuesday,1,6,13:20,14:10,6,6,1,C,C,21CSS201T,Computer Organization and Architecture,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Tuesday,1,7,14:10,15:00,7,7,1,D,D,21ECC203T,Digital Logic Design,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Tuesday,1,8,15:10,16:00,8,8,1,E,E,21ECC205T,Electromagnetic Theory and Interference,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Tuesday,1,9,16:00,16:50,9,9,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Wednesday,2,1,09:00,09:50,1,1,1,G - 401,G,21LEM202T,Universal Human Values-II,theory,False,401,II ECE DS B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-B,Wednesday,2,6,13:20,14:10,6,6,1,I,I,21PDH209T,Social Engineering,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Wednesday,2,7,14:10,15:00,7,7,1,E,E,21ECC205T,Electromagnetic Theory and Interference,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Wednesday,2,8,15:10,16:00,8,8,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Wednesday,2,9,16:00,16:50,9,9,1,D,D,21ECC203T,Digital Logic Design,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Thursday,3,1,09:00,09:50,1,2,2,G-401,G,21LEM202T,Universal Human Values-II,theory,False,401,II ECE DS B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-B,Thursday,3,2,09:50,10:40,1,2,2,G-401,G,21LEM202T,Universal Human Values-II,theory,False,401,II ECE DS B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-B,Thursday,3,3,10:50,11:40,3,4,2,H-TB-106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II ECE DS B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-B,Thursday,3,4,11:40,12:30,3,4,2,H-TB-106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II ECE DS B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-B,Thursday,3,6,13:20,14:10,6,6,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Thursday,3,7,14:10,15:00,7,7,1,C,C,21CSS201T,Computer Organization and Architecture,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Thursday,3,8,15:10,16:00,8,8,1,B,B,21ECC201T,Solid State Devices,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Thursday,3,9,16:00,16:50,9,9,1,E,E,21ECC205T,Electromagnetic Theory and Interference,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Friday,4,1,09:00,09:50,1,1,1,H - TB-106,H,21PDM201L,Verbal Reasoning,skill,False,TB-106,II ECE DS B.pdf,1,True,False,False,high,slot letter with room suffix,False,True
+II-ECE-DS-B,Friday,4,6,13:20,14:10,6,6,1,F,F,21LEM201T,Professional Ethics,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Friday,4,7,14:10,15:00,7,7,1,A,A,21MAB201T,Transforms and Boundary Value Problems,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Friday,4,8,15:10,16:00,8,8,1,B,B,21ECC201T,Solid State Devices,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+II-ECE-DS-B,Friday,4,9,16:00,16:50,9,9,1,C,C,21CSS201T,Computer Organization and Architecture,theory,False,,II ECE DS B.pdf,1,True,False,False,high,,False,True
+I-ECE-A,Monday,0,1,09:00,09:50,1,1,1,E IST602,E,21GNH101J,Philosophy of Engineering,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Monday,0,2,09:55,10:45,2,2,1,E IST602,E,21GNH101J,Philosophy of Engineering,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Monday,0,3,10:50,11:40,3,3,1,B IST602,B,21CYB101J,Chemistry,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Monday,0,4,11:45,12:35,4,4,1,A IST602,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Monday,0,6,13:30,14:20,6,7,2,Che lab,B,21CYB101J,Chemistry,lab,True,,I year Time Table SEEE.pdf,1,True,False,False,high,Chemistry practical of 21CYB101J (3-1-2-5),False,False
+I-ECE-A,Monday,0,7,14:25,15:15,6,7,2,Che lab,B,21CYB101J,Chemistry,lab,True,,I year Time Table SEEE.pdf,1,True,False,False,high,Chemistry practical of 21CYB101J (3-1-2-5),False,False
+I-ECE-A,Monday,0,8,15:20,16:10,8,8,1,F IST710,F,21BTB103T,Biology,theory,False,IST710,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Monday,0,9,16:15,17:05,9,9,1,CDC IST710,CDC,21PDM102L,General Aptitude,skill,False,IST710,I year Time Table SEEE.pdf,1,True,False,False,high,CDC = Career Development Centre course,False,False
+I-ECE-A,Tuesday,1,1,09:00,09:50,1,1,1,C IST602,C,21BTB102J,Electronic System and PCB Design,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Tuesday,1,2,09:55,10:45,2,2,1,B IST602,B,21CYB101J,Chemistry,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Tuesday,1,3,10:50,11:40,3,3,1,A IST602,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Tuesday,1,4,11:45,12:35,4,4,1,D IST602,D,21CSS101J,Programming for Problem Solving,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Tuesday,1,6,13:30,14:20,6,9,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,1,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-A,Tuesday,1,7,14:25,15:15,6,9,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,1,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-A,Tuesday,1,8,15:20,16:10,6,9,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,1,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-A,Tuesday,1,9,16:15,17:05,6,9,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,1,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-A,Wednesday,2,1,09:00,09:50,1,1,1,B IST602,B,21CYB101J,Chemistry,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Wednesday,2,2,09:55,10:45,2,2,1,E IST602,E,21GNH101J,Philosophy of Engineering,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Wednesday,2,3,10:50,11:40,3,3,1,D IST602,D,21CSS101J,Programming for Problem Solving,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Wednesday,2,6,13:30,14:20,6,6,1,PPS LAB,D,21CSS101J,Programming for Problem Solving,lab,True,,I year Time Table SEEE.pdf,1,True,False,False,high,Programming for Problem Solving practical of 21CSS101J,False,False
+I-ECE-A,Wednesday,2,7,14:25,15:15,7,7,1,PPS LAB IST 618,D,21CSS101J,Programming for Problem Solving,lab,True,IST618,I year Time Table SEEE.pdf,1,True,True,False,high,Programming for Problem Solving practical of 21CSS101J,False,False
+I-ECE-A,Wednesday,2,8,15:20,16:10,8,9,2,PCB Lab IST 108,C,21BTB102J,Electronic System and PCB Design,lab,True,IST108,I year Time Table SEEE.pdf,1,True,True,False,medium,PCB lab; course lists P=0 so this practical is not in the credit structure,False,False
+I-ECE-A,Wednesday,2,9,16:15,17:05,8,9,2,PCB Lab IST 108,C,21BTB102J,Electronic System and PCB Design,lab,True,IST108,I year Time Table SEEE.pdf,1,True,True,False,medium,PCB lab; course lists P=0 so this practical is not in the credit structure,False,False
+I-ECE-A,Thursday,3,1,09:00,09:50,1,3,3,German IST602,German,21LEH104T,German,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,,False,False
+I-ECE-A,Thursday,3,2,09:55,10:45,1,3,3,German IST602,German,21LEH104T,German,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,,False,False
+I-ECE-A,Thursday,3,3,10:50,11:40,1,3,3,German IST602,German,21LEH104T,German,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,,False,False
+I-ECE-A,Thursday,3,4,11:45,12:35,4,4,1,A IST602,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Thursday,3,6,13:30,14:20,6,6,1,CDC IST510,CDC,21PDM102L,General Aptitude,skill,False,IST510,I year Time Table SEEE.pdf,1,True,False,False,high,CDC = Career Development Centre course,False,False
+I-ECE-A,Thursday,3,7,14:25,15:15,7,7,1,CDC IST510,CDC,21PDM102L,General Aptitude,skill,False,IST510,I year Time Table SEEE.pdf,1,True,False,False,high,CDC = Career Development Centre course,False,False
+I-ECE-A,Thursday,3,8,15:20,16:10,8,9,2,NSS IST201,NSS,21GNM102L,NSS,activity,False,IST201,I year Time Table SEEE.pdf,1,True,True,False,high,,False,False
+I-ECE-A,Thursday,3,9,16:15,17:05,8,9,2,NSS IST201,NSS,21GNM102L,NSS,activity,False,IST201,I year Time Table SEEE.pdf,1,True,True,False,high,,False,False
+I-ECE-A,Friday,4,1,09:00,09:50,1,1,1,D IST602,D,21CSS101J,Programming for Problem Solving,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Friday,4,2,09:55,10:45,2,2,1,A IST602,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Friday,4,3,10:50,11:40,3,3,1,C IST602,C,21BTB102J,Electronic System and PCB Design,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Friday,4,4,11:45,12:35,4,4,1,B IST602,B,21CYB101J,Chemistry,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Friday,4,6,13:30,14:20,6,6,1,F IST602,F,21BTB103T,Biology,theory,False,IST602,I year Time Table SEEE.pdf,1,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-A,Friday,4,7,14:25,15:15,7,9,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,1,True,False,False,high,,False,False
+I-ECE-A,Friday,4,8,15:20,16:10,7,9,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,1,True,False,False,high,,False,False
+I-ECE-A,Friday,4,9,16:15,17:05,7,9,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,1,True,False,False,high,,False,False
+I-ECE-B-EEE,Monday,0,1,09:00,09:50,1,1,1,CDC IST609,CDC,21PDM102L,General Aptitude,skill,False,IST609,I year Time Table SEEE.pdf,2,True,False,False,high,CDC = Career Development Centre course,False,False
+I-ECE-B-EEE,Monday,0,2,09:55,10:45,2,2,1,F IST710 / G IST520,F|G,21BTB102J|21EEC101J,Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE),theory,False,IST710,I year Time Table SEEE.pdf,2,True,False,False,low,"Split-cohort cell (two slots in one period) -> ['F', 'G']",False,False
+I-ECE-B-EEE,Monday,0,3,10:50,11:40,3,4,2,Che lab,B,21CYB101J,Chemistry,lab,True,,I year Time Table SEEE.pdf,2,True,False,False,high,Chemistry practical of 21CYB101J (3-1-2-5),False,False
+I-ECE-B-EEE,Monday,0,4,11:45,12:35,3,4,2,Che lab,B,21CYB101J,Chemistry,lab,True,,I year Time Table SEEE.pdf,2,True,False,False,high,Chemistry practical of 21CYB101J (3-1-2-5),False,False
+I-ECE-B-EEE,Monday,0,6,13:30,14:20,6,6,1,E IST602,E,21GNH101J,Philosophy of Engineering,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Monday,0,7,14:25,15:15,7,7,1,E IST602,E,21GNH101J,Philosophy of Engineering,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Monday,0,8,15:20,16:10,8,8,1,B IST602,B,21CYB101J,Chemistry,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Monday,0,9,16:15,17:05,9,9,1,A IST602,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Tuesday,1,1,09:00,09:50,1,4,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,2,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-B-EEE,Tuesday,1,2,09:55,10:45,1,4,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,2,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-B-EEE,Tuesday,1,3,10:50,11:40,1,4,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,2,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-B-EEE,Tuesday,1,4,11:45,12:35,1,4,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,2,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-B-EEE,Tuesday,1,6,13:30,14:20,6,6,1,C IST602,C,21BTB103T,Biology,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Tuesday,1,7,14:25,15:15,7,7,1,B IST602,B,21CYB101J,Chemistry,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Tuesday,1,8,15:20,16:10,8,8,1,A IST602,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Tuesday,1,9,16:15,17:05,9,9,1,D IST602,D,21CSS101J,Programming for Problem Solving,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Wednesday,2,1,09:00,09:50,1,1,1,F IST710 / G IST520,F|G,21BTB102J|21EEC101J,Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE),theory,False,IST710,I year Time Table SEEE.pdf,2,True,False,False,low,"Split-cohort cell (two slots in one period) -> ['F', 'G']",False,False
+I-ECE-B-EEE,Wednesday,2,2,09:55,10:45,2,2,1,PPS Lab IST 617,D,21CSS101J,Programming for Problem Solving,lab,True,IST617,I year Time Table SEEE.pdf,2,True,True,False,high,Programming for Problem Solving practical of 21CSS101J,False,False
+I-ECE-B-EEE,Wednesday,2,3,10:50,11:40,3,3,1,CDC IST510,CDC,21PDM102L,General Aptitude,skill,False,IST510,I year Time Table SEEE.pdf,2,True,False,False,high,CDC = Career Development Centre course,False,False
+I-ECE-B-EEE,Wednesday,2,4,11:45,12:35,4,4,1,CDC IST510,CDC,21PDM102L,General Aptitude,skill,False,IST510,I year Time Table SEEE.pdf,2,True,True,False,high,CDC = Career Development Centre course,False,False
+I-ECE-B-EEE,Wednesday,2,5,12:35,13:30,5,5,1,PPS LAB IST618,D,21CSS101J,Programming for Problem Solving,lab,True,IST618,I year Time Table SEEE.pdf,2,True,True,False,high,Programming for Problem Solving practical of 21CSS101J,True,False
+I-ECE-B-EEE,Wednesday,2,7,14:25,15:15,7,7,1,B IST602,B,21CYB101J,Chemistry,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Wednesday,2,8,15:20,16:10,8,8,1,E IST602,E,21GNH101J,Philosophy of Engineering,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Wednesday,2,9,16:15,17:05,9,9,1,D IST602,D,21CSS101J,Programming for Problem Solving,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Thursday,3,1,09:00,09:50,1,1,1,NSS 201,NSS,21GNM102L,NSS,activity,False,201,I year Time Table SEEE.pdf,2,True,True,False,high,,False,False
+I-ECE-B-EEE,Thursday,3,2,09:55,10:45,2,2,1,NSS 201,NSS,21GNM102L,NSS,activity,False,201,I year Time Table SEEE.pdf,2,True,True,False,high,,False,False
+I-ECE-B-EEE,Thursday,3,3,10:50,11:40,3,3,1,C IST626,C,21BTB103T,Biology,theory,False,IST626,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Thursday,3,4,11:45,12:35,4,4,1,A IST710,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST710,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Thursday,3,6,13:30,14:20,6,6,1,D IST602,D,21CSS101J,Programming for Problem Solving,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Thursday,3,7,14:25,15:15,7,9,3,German IST602,German,21LEH104T,German,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,,False,False
+I-ECE-B-EEE,Thursday,3,8,15:20,16:10,7,9,3,German IST602,German,21LEH104T,German,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,,False,False
+I-ECE-B-EEE,Thursday,3,9,16:15,17:05,7,9,3,German IST602,German,21LEH104T,German,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,,False,False
+I-ECE-B-EEE,Friday,4,1,09:00,09:50,1,2,2,PCB Lab/EC Lab IST 617,F|G,21BTB102J|21EEC101J,Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE),lab,True,IST617,I year Time Table SEEE.pdf,2,True,True,False,low,"Split cohort: ECE students -> PCB lab (F), EEE students -> EC lab (G)",False,False
+I-ECE-B-EEE,Friday,4,2,09:55,10:45,1,2,2,PCB Lab/EC Lab IST 617,F|G,21BTB102J|21EEC101J,Electronic System and PCB Design (for ECE) | Electrical Circuits (for EEE),lab,True,IST617,I year Time Table SEEE.pdf,2,True,True,False,low,"Split cohort: ECE students -> PCB lab (F), EEE students -> EC lab (G)",False,False
+I-ECE-B-EEE,Friday,4,4,11:45,12:35,4,6,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,2,True,False,False,high,,False,False
+I-ECE-B-EEE,Friday,4,5,12:35,13:30,4,6,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,2,True,False,False,high,,True,False
+I-ECE-B-EEE,Friday,4,6,13:30,14:20,4,6,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,2,True,False,False,high,,False,False
+I-ECE-B-EEE,Friday,4,8,15:20,16:10,8,8,1,B IST602,B,21CYB101J,Chemistry,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-B-EEE,Friday,4,9,16:15,17:05,9,9,1,A IST602,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST602,I year Time Table SEEE.pdf,2,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Monday,0,1,09:00,09:50,1,1,1,F IST710,F,21BTB103T,Biology,theory,False,IST710,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Monday,0,2,09:55,10:45,2,2,1,CDC,CDC,21PDM102L,General Aptitude,skill,False,,I year Time Table SEEE.pdf,3,True,False,False,high,CDC = Career Development Centre course,False,False
+I-ECE-DS,Monday,0,3,10:50,11:40,3,4,2,PCB Lab IST 617,C,21BTB102J,Electronic System and PCB Design,lab,True,IST617,I year Time Table SEEE.pdf,3,True,True,False,medium,PCB lab; course lists P=0 so this practical is not in the credit structure,False,False
+I-ECE-DS,Monday,0,4,11:45,12:35,3,4,2,PCB Lab IST 617,C,21BTB102J,Electronic System and PCB Design,lab,True,IST617,I year Time Table SEEE.pdf,3,True,True,False,medium,PCB lab; course lists P=0 so this practical is not in the credit structure,False,False
+I-ECE-DS,Monday,0,6,13:30,14:20,6,6,1,E IST502,E,21GNH101J,Philosophy of Engineering,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Monday,0,7,14:25,15:15,7,7,1,E IST502,E,21GNH101J,Philosophy of Engineering,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Monday,0,8,15:20,16:10,8,8,1,B IST502,B,21CYB101J,Chemistry,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Monday,0,9,16:15,17:05,9,9,1,A IST502,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Tuesday,1,1,09:00,09:50,1,2,2,Che lab,B,21CYB101J,Chemistry,lab,True,,I year Time Table SEEE.pdf,3,True,False,False,high,Chemistry practical of 21CYB101J (3-1-2-5),False,False
+I-ECE-DS,Tuesday,1,2,09:55,10:45,1,2,2,Che lab,B,21CYB101J,Chemistry,lab,True,,I year Time Table SEEE.pdf,3,True,False,False,high,Chemistry practical of 21CYB101J (3-1-2-5),False,False
+I-ECE-DS,Tuesday,1,3,10:50,11:40,3,3,1,NSS 201,NSS,21GNM102L,NSS,activity,False,201,I year Time Table SEEE.pdf,3,True,True,False,high,,False,False
+I-ECE-DS,Tuesday,1,4,11:45,12:35,4,4,1,NSS 201,NSS,21GNM102L,NSS,activity,False,201,I year Time Table SEEE.pdf,3,True,True,False,high,,False,False
+I-ECE-DS,Tuesday,1,6,13:30,14:20,6,6,1,C IST502,C,21BTB102J,Electronic System and PCB Design,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Tuesday,1,7,14:25,15:15,7,7,1,B IST502,B,21CYB101J,Chemistry,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Tuesday,1,8,15:20,16:10,8,8,1,A IST502,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Tuesday,1,9,16:15,17:05,9,9,1,D IST502,D,21CSS101J,Programming for Problem Solving,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Wednesday,2,1,09:00,09:50,1,1,1,CDC IST510,CDC,21PDM102L,General Aptitude,skill,False,IST510,I year Time Table SEEE.pdf,3,True,False,False,high,CDC = Career Development Centre course,False,False
+I-ECE-DS,Wednesday,2,2,09:55,10:45,2,2,1,CDC IST510,CDC,21PDM102L,General Aptitude,skill,False,IST510,I year Time Table SEEE.pdf,3,True,False,False,high,CDC = Career Development Centre course,False,False
+I-ECE-DS,Wednesday,2,3,10:50,11:40,3,3,1,A IST710,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST710,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Wednesday,2,5,12:35,13:30,5,6,2,PPS lab / PPS LAB IST 617,D,21CSS101J,Programming for Problem Solving,lab,True,IST617,I year Time Table SEEE.pdf,3,True,True,False,high,Programming for Problem Solving practical of 21CSS101J,True,False
+I-ECE-DS,Wednesday,2,6,13:30,14:20,5,6,2,PPS lab / PPS LAB IST 617,D,21CSS101J,Programming for Problem Solving,lab,True,IST617,I year Time Table SEEE.pdf,3,True,True,False,high,Programming for Problem Solving practical of 21CSS101J,False,False
+I-ECE-DS,Wednesday,2,7,14:25,15:15,7,7,1,B IST502,B,21CYB101J,Chemistry,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Wednesday,2,8,15:20,16:10,8,8,1,E IST502,E,21GNH101J,Philosophy of Engineering,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Wednesday,2,9,16:15,17:05,9,9,1,D IST502,D,21CSS101J,Programming for Problem Solving,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Thursday,3,1,09:00,09:50,1,1,1,F IST710,F,21BTB103T,Biology,theory,False,IST710,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Thursday,3,2,09:55,10:45,2,2,1,A IST510,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST510,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Thursday,3,3,10:50,11:40,3,3,1,D IST710,D,21CSS101J,Programming for Problem Solving,theory,False,IST710,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Thursday,3,4,11:45,12:35,4,6,3,German IST502,German,21LEH104T,German,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,,False,False
+I-ECE-DS,Thursday,3,5,12:35,13:30,4,6,3,German IST502,German,21LEH104T,German,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,,True,False
+I-ECE-DS,Thursday,3,6,13:30,14:20,4,6,3,German IST502,German,21LEH104T,German,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,,False,False
+I-ECE-DS,Thursday,3,8,15:20,16:10,8,8,1,C IST502,C,21BTB102J,Electronic System and PCB Design,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Thursday,3,9,16:15,17:05,9,9,1,B IST502,B,21CYB101J,Chemistry,theory,False,IST502,I year Time Table SEEE.pdf,3,True,False,False,high,slot letter with room suffix,False,False
+I-ECE-DS,Friday,4,1,09:00,09:50,1,3,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,3,True,False,False,high,,False,False
+I-ECE-DS,Friday,4,2,09:55,10:45,1,3,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,3,True,False,False,high,,False,False
+I-ECE-DS,Friday,4,3,10:50,11:40,1,3,3,German IST626,German,21LEH104T,German,theory,False,IST626,I year Time Table SEEE.pdf,3,True,False,False,high,,False,False
+I-ECE-DS,Friday,4,4,11:45,12:35,4,4,1,PPS LAB,D,21CSS101J,Programming for Problem Solving,lab,True,,I year Time Table SEEE.pdf,3,True,False,True,high,Programming for Problem Solving practical of 21CSS101J,False,False
+I-ECE-DS,Friday,4,6,13:30,14:20,6,9,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,3,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-DS,Friday,4,7,14:25,15:15,6,9,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,3,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-DS,Friday,4,8,15:20,16:10,6,9,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,3,True,False,False,high,Workshop = 21MES101L,False,False
+I-ECE-DS,Friday,4,9,16:15,17:05,6,9,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,3,True,False,False,high,Workshop = 21MES101L,False,False
+I-BIOTECH-B-BME,Monday,0,1,09:00,09:50,1,1,1,C IST520,C,21BTC105T,Cell biology (for Biotech),theory,False,IST520,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Monday,0,2,09:55,10:45,2,2,1,YOGA,YOGA,21GNM101L,Physical and Mental Health using Yoga,activity,False,,I year Time Table SEEE.pdf,4,True,False,False,high,,False,False
+I-BIOTECH-B-BME,Monday,0,3,10:50,11:40,3,3,1,YOGA,YOGA,21GNM101L,Physical and Mental Health using Yoga,activity,False,,I year Time Table SEEE.pdf,4,True,False,False,high,,False,False
+I-BIOTECH-B-BME,Monday,0,4,11:45,12:35,4,4,1,F IST710 /G IST520,F|G,21BTC101T|21BTB104T,Biochemistry (for Biotech) | Biology: Human physiology and anatomy (only for Biomedical Engineering),theory,False,IST710,I year Time Table SEEE.pdf,4,True,False,False,low,"Split-cohort cell (two slots in one period) -> ['F', 'G']",False,False
+I-BIOTECH-B-BME,Monday,0,6,13:30,14:20,6,6,1,E IST702,E,21GNH101J,Philosophy of Engineering,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Monday,0,7,14:25,15:15,7,7,1,E IST702,E,21GNH101J,Philosophy of Engineering,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Monday,0,8,15:20,16:10,8,8,1,A IST702,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Monday,0,9,16:15,17:05,9,9,1,B IST702,B,21CYB101J,Chemistry,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Tuesday,1,1,09:00,09:50,1,1,1,CDC IST710,CDC,21PDM102L,General Aptitude,skill,False,IST710,I year Time Table SEEE.pdf,4,True,False,False,high,CDC = Career Development Centre course,False,False
+I-BIOTECH-B-BME,Tuesday,1,2,09:55,10:45,2,2,1,CDC IST710,CDC,21PDM102L,General Aptitude,skill,False,IST710,I year Time Table SEEE.pdf,4,True,False,False,high,CDC = Career Development Centre course,False,False
+I-BIOTECH-B-BME,Tuesday,1,3,10:50,11:40,3,3,1,C IST520,C,21BTC105T,Cell biology (for Biotech),theory,False,IST520,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Tuesday,1,4,11:45,12:35,4,4,1,F IST710,F,21BTC101T,Biochemistry (for Biotech),theory,False,IST710,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Tuesday,1,7,14:25,15:15,7,7,1,B IST702,B,21CYB101J,Chemistry,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Tuesday,1,8,15:20,16:10,8,8,1,A IST702,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Tuesday,1,9,16:15,17:05,9,9,1,D IST702,D,21CSS101J,Programming for Problem Solving,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Wednesday,2,1,09:00,09:50,1,4,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,4,True,False,False,high,Workshop = 21MES101L,False,False
+I-BIOTECH-B-BME,Wednesday,2,2,09:55,10:45,1,4,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,4,True,False,False,high,Workshop = 21MES101L,False,False
+I-BIOTECH-B-BME,Wednesday,2,3,10:50,11:40,1,4,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,4,True,False,False,high,Workshop = 21MES101L,False,False
+I-BIOTECH-B-BME,Wednesday,2,4,11:45,12:35,1,4,4,"Workshop (IST 20,21)",Workshop,21MES101L,Basic Civil and Mechanical Workshop,lab,True,"IST20,21",I year Time Table SEEE.pdf,4,True,False,False,high,Workshop = 21MES101L,False,False
+I-BIOTECH-B-BME,Wednesday,2,6,13:30,14:20,6,6,1,D IST702,D,21CSS101J,Programming for Problem Solving,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Wednesday,2,7,14:25,15:15,7,7,1,B IST702,B,21CYB101J,Chemistry,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Wednesday,2,8,15:20,16:10,8,8,1,E IST702,E,21GNH101J,Philosophy of Engineering,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Wednesday,2,9,16:15,17:05,9,9,1,D IST702,D,21CSS101J,Programming for Problem Solving,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Thursday,3,1,09:00,09:50,1,2,2,Che lab,B,21CYB101J,Chemistry,lab,True,,I year Time Table SEEE.pdf,4,True,False,False,high,Chemistry practical of 21CYB101J (3-1-2-5),False,False
+I-BIOTECH-B-BME,Thursday,3,2,09:55,10:45,1,2,2,Che lab,B,21CYB101J,Chemistry,lab,True,,I year Time Table SEEE.pdf,4,True,False,False,high,Chemistry practical of 21CYB101J (3-1-2-5),False,False
+I-BIOTECH-B-BME,Thursday,3,3,10:50,11:40,3,3,1,A IST710,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST710,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Thursday,3,4,11:45,12:35,4,4,1,C IST510/ G IST520,C|G,21BTC105T|21BTB104T,Cell biology (for Biotech) | Biology: Human physiology and anatomy (only for Biomedical Engineering),theory,False,IST510,I year Time Table SEEE.pdf,4,True,False,False,low,"Split-cohort cell (two slots in one period) -> ['C', 'G']",False,False
+I-BIOTECH-B-BME,Thursday,3,6,13:30,14:20,6,6,1,B IST702,B,21CYB101J,Chemistry,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Thursday,3,7,14:25,15:15,7,9,3,Japanese IST702,Japanese,21LEH105T,Japanese,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,,False,False
+I-BIOTECH-B-BME,Thursday,3,8,15:20,16:10,7,9,3,Japanese IST702,Japanese,21LEH105T,Japanese,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,,False,False
+I-BIOTECH-B-BME,Thursday,3,9,16:15,17:05,7,9,3,Japanese IST702,Japanese,21LEH105T,Japanese,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,,False,False
+I-BIOTECH-B-BME,Friday,4,1,09:00,09:50,1,1,1,F IST702,F,21BTC101T,Biochemistry (for Biotech),theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Friday,4,2,09:55,10:45,2,2,1,CDC IST702,CDC,21PDM102L,General Aptitude,skill,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,CDC = Career Development Centre course,False,False
+I-BIOTECH-B-BME,Friday,4,3,10:50,11:40,3,3,1,A IST702,A,21MAB102T,Advanced Calculus and Complex Analysis,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,slot letter with room suffix,False,False
+I-BIOTECH-B-BME,Friday,4,4,11:45,12:35,4,6,3,Japanese IST702,Japanese,21LEH105T,Japanese,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,,False,False
+I-BIOTECH-B-BME,Friday,4,5,12:35,13:30,4,6,3,Japanese IST702,Japanese,21LEH105T,Japanese,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,,True,False
+I-BIOTECH-B-BME,Friday,4,6,13:30,14:20,4,6,3,Japanese IST702,Japanese,21LEH105T,Japanese,theory,False,IST702,I year Time Table SEEE.pdf,4,True,False,False,high,,False,False
+I-BIOTECH-B-BME,Friday,4,8,15:20,16:10,8,8,1,PPS LAB,D,21CSS101J,Programming for Problem Solving,lab,True,,I year Time Table SEEE.pdf,4,True,False,False,high,Programming for Problem Solving practical of 21CSS101J,False,False
+I-BIOTECH-B-BME,Friday,4,9,16:15,17:05,9,9,1,PPS LAB,D,21CSS101J,Programming for Problem Solving,lab,True,,I year Time Table SEEE.pdf,4,True,False,False,high,Programming for Problem Solving practical of 21CSS101J,False,False

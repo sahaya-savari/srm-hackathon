@@ -1,0 +1,14 @@
+section_id,file,page,text_layer_bytes,ocr_mean_word_conf,subject_codes,codes_found_exact,codes_found_after_repair,code_recall_exact,verified_grid_cells
+IV-ECE-A,IV ECE A.pdf,1,0,75.6,6,4,4,0.67,19
+IV-ECE-B,IV ECE B.pdf,1,0,81.0,6,5,5,0.83,19
+III-ECE-A,III ECE A.pdf,1,0,76.2,9,1,1,0.11,24
+III-ECE-B,III ECE B.pdf,1,0,74.2,9,1,1,0.11,24
+III-ECE-DS,III ECE DS.pdf,1,0,86.4,9,2,2,0.22,24
+III-BME,III BME.pdf,1,0,75.3,9,4,4,0.44,26
+II-BME,II BME.pdf,1,0,77.6,9,6,7,0.67,24
+II-ECE-DS-A,II ECE DS A.pdf,1,0,82.5,10,8,8,0.8,25
+II-ECE-DS-B,II ECE DS B.pdf,1,0,81.4,10,6,6,0.6,26
+I-ECE-A,I year Time Table SEEE.pdf,1,0,79.8,10,2,2,0.2,29
+I-ECE-B-EEE,I year Time Table SEEE.pdf,2,0,78.3,11,6,6,0.55,30
+I-ECE-DS,I year Time Table SEEE.pdf,3,0,80.1,10,3,3,0.3,30
+I-BIOTECH-B-BME,I year Time Table SEEE.pdf,4,0,77.7,11,4,4,0.36,31

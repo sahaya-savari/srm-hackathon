@@ -1,0 +1,10 @@
+section_id,weekly_periods,lab_periods,subjects,first_period,last_period,lab_share,forenoon_periods,afternoon_periods,venue_shift_label,Monday,Tuesday,Wednesday,Thursday,Friday,busiest_day,lightest_day,max_day_load,min_day_load,avg_per_day,semester_scheduled_periods
+II-BME,29,4,9,1,9,0.14,19,10,FN,6,6,5,6,6,Monday,Wednesday,6,5,5.8,377
+II-ECE-DS-A,30,4,10,1,9,0.13,20,10,FN,8,7,5,6,4,Monday,Friday,8,4,6.0,390
+II-ECE-DS-B,30,4,10,1,9,0.13,10,20,AN,6,6,5,8,5,Thursday,Wednesday,8,5,6.0,390
+III-BME,29,4,9,1,9,0.14,9,20,AN,8,7,4,5,5,Monday,Wednesday,8,4,5.8,377
+III-ECE-A,27,4,9,1,9,0.15,20,7,FN,6,5,6,4,6,Monday,Thursday,6,4,5.4,351
+III-ECE-B,27,4,9,1,9,0.15,7,20,AN,6,6,5,6,4,Monday,Friday,6,4,5.4,351
+III-ECE-DS,27,4,9,1,9,0.15,20,7,FN,4,6,6,4,7,Friday,Monday,7,4,5.4,351
+IV-ECE-A,19,1,6,1,4,0.05,19,0,-,3,4,4,4,4,Tuesday,Monday,4,3,3.8,247
+IV-ECE-B,19,1,6,1,4,0.05,19,0,-,4,4,4,4,3,Monday,Friday,4,3,3.8,247

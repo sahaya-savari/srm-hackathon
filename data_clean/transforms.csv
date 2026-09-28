@@ -1,0 +1,147 @@
+section_id,day,period,raw,issue,detail
+IV-ECE-A,Wed,2,LAB - IST 108,MAPPING[high],Lab row of subject table
+IV-ECE-B,Thu,3,LAB - IST 108,MAPPING[high],Lab row of subject table
+III-ECE-A,Mon,6-7,G – 625,MAPPING[high],slot letter with room suffix
+III-ECE-A,Tue,4,B-Proj,MAPPING[medium],"'B-Proj' read as project hour of slot B (21ECC301P, a 'P' project-based course; makes B total 4 = L+T)"
+III-ECE-A,Tue,7,G - 625,MAPPING[high],slot letter with room suffix
+III-ECE-A,Wed,8-9,LAB-108/309,MAPPING[high],Lab row of subject table
+III-ECE-A,Fri,6-7,LAB-108/309,MAPPING[high],Lab row of subject table
+III-ECE-B,Mon,1-2,LAB-108/309,MAPPING[high],Lab row of subject table
+III-ECE-B,Tue,1-2,G-625,MAPPING[high],slot letter with room suffix
+III-ECE-B,Wed,1,G - 625,MAPPING[high],slot letter with room suffix
+III-ECE-B,Wed,6,B-Proj,MAPPING[medium],"'B-Proj' read as project hour of slot B (21ECC301P, a 'P' project-based course; makes B total 4 = L+T)"
+III-ECE-B,Thu,1-2,LAB-108/309,MAPPING[high],Lab row of subject table
+III-ECE-DS,Tue,6-7,LAB-108/107,MAPPING[high],Lab row of subject table
+III-ECE-DS,Wed,8-9,G-625,MAPPING[high],slot letter with room suffix
+III-ECE-DS,Fri,4,B-Proj,MAPPING[medium],"'B-Proj' read as project hour of slot B (21ECC301P, a 'P' project-based course; makes B total 4 = L+T)"
+III-ECE-DS,Fri,6,G-625,MAPPING[high],slot letter with room suffix
+III-ECE-DS,Fri,8-9,LAB-108/107,MAPPING[high],Lab row of subject table
+III-BME,Mon,1-2,G-625,MAPPING[high],slot letter with room suffix
+III-BME,Mon,3-4,MPMC LAB-107,MAPPING[medium],'MPMC' = Microcontrollers practical; only 3-0-2 course with MPMC content is slot B (21BMC302J)
+III-BME,Tue,1-2,BIO DSP LAB-108,MAPPING[medium],'BIO DSP' = Biomedical Signal Processing practical -> slot C (21BMC301J)
+III-BME,Tue,3,G-625,MAPPING[high],slot letter with room suffix
+III-BME,Thu,4,I-108,MAPPING[high],slot letter with room suffix
+III-BME,Fri,1,I-108,MAPPING[high],slot letter with room suffix
+II-BME,Mon,6-7,"DLMS/EEC-107,309",MAPPING[low],Batch lab shared by C (21BMC203J EEC) and D (21BMC204J DLMS); which course a given student attends on which day is not stated
+II-BME,Tue,6-7,H-TB-106,MAPPING[high],slot letter with room suffix
+II-BME,Wed,6,H-TB-106,MAPPING[high],slot letter with room suffix
+II-BME,Wed,7,G-602,MAPPING[high],slot letter with room suffix
+II-BME,Thu,8-9,"DLMS/EEC-107,309",MAPPING[low],Batch lab shared by C (21BMC203J EEC) and D (21BMC204J DLMS); which course a given student attends on which day is not stated
+II-BME,Fri,8-9,G-602,MAPPING[high],slot letter with room suffix
+II-ECE-DS-A,Mon,6-7,G-602,MAPPING[high],slot letter with room suffix
+II-ECE-DS-A,Mon,8-9,LAB -309/107,MAPPING[high],Lab row of subject table
+II-ECE-DS-A,Tue,6,G-602,MAPPING[high],slot letter with room suffix
+II-ECE-DS-A,Tue,8-9,H-TB -106,MAPPING[high],slot letter with room suffix
+II-ECE-DS-A,Wed,7,H-TB - 106,MAPPING[high],slot letter with room suffix
+II-ECE-DS-A,Thu,6-7,LAB -309/107,MAPPING[high],Lab row of subject table
+II-ECE-DS-B,Mon,3-4,LAB -309/107,MAPPING[high],Lab row of subject table
+II-ECE-DS-B,Tue,1-2,LAB -309/107,MAPPING[high],Lab row of subject table
+II-ECE-DS-B,Wed,1,G - 401,MAPPING[high],slot letter with room suffix
+II-ECE-DS-B,Thu,1-2,G-401,MAPPING[high],slot letter with room suffix
+II-ECE-DS-B,Thu,3-4,H-TB-106,MAPPING[high],slot letter with room suffix
+II-ECE-DS-B,Fri,1,H - TB-106,MAPPING[high],slot letter with room suffix
+I-ECE-A,Mon,1,E IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Mon,2,E IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Mon,3,B IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Mon,4,A IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Mon,6-7,Che lab,MAPPING[high],Chemistry practical of 21CYB101J (3-1-2-5)
+I-ECE-A,Mon,8,F IST710,MAPPING[high],slot letter with room suffix
+I-ECE-A,Mon,9,CDC IST710,MAPPING[high],CDC = Career Development Centre course
+I-ECE-A,Tue,1,C IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Tue,2,B IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Tue,3,A IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Tue,4,D IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Tue,6-9,"Workshop (IST 20,21)",MAPPING[high],Workshop = 21MES101L
+I-ECE-A,Wed,1,B IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Wed,2,E IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Wed,3,D IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Wed,6,PPS LAB,MAPPING[high],Programming for Problem Solving practical of 21CSS101J
+I-ECE-A,Wed,7,PPS LAB IST 618,MAPPING[high],Programming for Problem Solving practical of 21CSS101J
+I-ECE-A,Wed,8-9,PCB Lab IST 108,MAPPING[medium],PCB lab; course lists P=0 so this practical is not in the credit structure
+I-ECE-A,Thu,4,A IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Thu,6,CDC IST510,MAPPING[high],CDC = Career Development Centre course
+I-ECE-A,Thu,7,CDC IST510,MAPPING[high],CDC = Career Development Centre course
+I-ECE-A,Fri,1,D IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Fri,2,A IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Fri,3,C IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Fri,4,B IST602,MAPPING[high],slot letter with room suffix
+I-ECE-A,Fri,6,F IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Mon,1,CDC IST609,MAPPING[high],CDC = Career Development Centre course
+I-ECE-B-EEE,Mon,2,F IST710 / G IST520,MAPPING[low],"Split-cohort cell (two slots in one period) -> ['F', 'G']"
+I-ECE-B-EEE,Mon,3-4,Che lab,MAPPING[high],Chemistry practical of 21CYB101J (3-1-2-5)
+I-ECE-B-EEE,Mon,6,E IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Mon,7,E IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Mon,8,B IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Mon,9,A IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Tue,1-4,"Workshop (IST 20,21)",MAPPING[high],Workshop = 21MES101L
+I-ECE-B-EEE,Tue,6,C IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Tue,7,B IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Tue,8,A IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Tue,9,D IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Wed,1,F IST710 / G IST520,MAPPING[low],"Split-cohort cell (two slots in one period) -> ['F', 'G']"
+I-ECE-B-EEE,Wed,2,PPS Lab IST 617,MAPPING[high],Programming for Problem Solving practical of 21CSS101J
+I-ECE-B-EEE,Wed,3,CDC IST510,MAPPING[high],CDC = Career Development Centre course
+I-ECE-B-EEE,Wed,4,CDC IST510,MAPPING[high],CDC = Career Development Centre course
+I-ECE-B-EEE,Wed,5,PPS LAB IST618,MAPPING[high],Programming for Problem Solving practical of 21CSS101J
+I-ECE-B-EEE,Wed,7,B IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Wed,8,E IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Wed,9,D IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Thu,3,C IST626,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Thu,4,A IST710,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Thu,6,D IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Fri,1-2,PCB Lab/EC Lab IST 617,MAPPING[low],"Split cohort: ECE students -> PCB lab (F), EEE students -> EC lab (G)"
+I-ECE-B-EEE,Fri,8,B IST602,MAPPING[high],slot letter with room suffix
+I-ECE-B-EEE,Fri,9,A IST602,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Mon,1,F IST710,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Mon,2,CDC,MAPPING[high],CDC = Career Development Centre course
+I-ECE-DS,Mon,3-4,PCB Lab IST 617,MAPPING[medium],PCB lab; course lists P=0 so this practical is not in the credit structure
+I-ECE-DS,Mon,6,E IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Mon,7,E IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Mon,8,B IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Mon,9,A IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Tue,1-2,Che lab,MAPPING[high],Chemistry practical of 21CYB101J (3-1-2-5)
+I-ECE-DS,Tue,6,C IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Tue,7,B IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Tue,8,A IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Tue,9,D IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Wed,1,CDC IST510,MAPPING[high],CDC = Career Development Centre course
+I-ECE-DS,Wed,2,CDC IST510,MAPPING[high],CDC = Career Development Centre course
+I-ECE-DS,Wed,3,A IST710,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Wed,5-6,PPS lab / PPS LAB IST 617,MAPPING[high],Programming for Problem Solving practical of 21CSS101J
+I-ECE-DS,Wed,7,B IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Wed,8,E IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Wed,9,D IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Thu,1,F IST710,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Thu,2,A IST510,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Thu,3,D IST710,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Thu,8,C IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Thu,9,B IST502,MAPPING[high],slot letter with room suffix
+I-ECE-DS,Fri,4,PPS LAB,MAPPING[high],Programming for Problem Solving practical of 21CSS101J
+I-ECE-DS,Fri,6-9,"Workshop (IST 20,21)",MAPPING[high],Workshop = 21MES101L
+I-BIOTECH-B-BME,Mon,1,C IST520,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Mon,4,F IST710 /G IST520,MAPPING[low],"Split-cohort cell (two slots in one period) -> ['F', 'G']"
+I-BIOTECH-B-BME,Mon,6,E IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Mon,7,E IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Mon,8,A IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Mon,9,B IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Tue,1,CDC IST710,MAPPING[high],CDC = Career Development Centre course
+I-BIOTECH-B-BME,Tue,2,CDC IST710,MAPPING[high],CDC = Career Development Centre course
+I-BIOTECH-B-BME,Tue,3,C IST520,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Tue,4,F IST710,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Tue,7,B IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Tue,8,A IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Tue,9,D IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Wed,1-4,"Workshop (IST 20,21)",MAPPING[high],Workshop = 21MES101L
+I-BIOTECH-B-BME,Wed,6,D IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Wed,7,B IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Wed,8,E IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Wed,9,D IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Thu,1-2,Che lab,MAPPING[high],Chemistry practical of 21CYB101J (3-1-2-5)
+I-BIOTECH-B-BME,Thu,3,A IST710,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Thu,4,C IST510/ G IST520,MAPPING[low],"Split-cohort cell (two slots in one period) -> ['C', 'G']"
+I-BIOTECH-B-BME,Thu,6,B IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Fri,1,F IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Fri,2,CDC IST702,MAPPING[high],CDC = Career Development Centre course
+I-BIOTECH-B-BME,Fri,3,A IST702,MAPPING[high],slot letter with room suffix
+I-BIOTECH-B-BME,Fri,8,PPS LAB,MAPPING[high],Programming for Problem Solving practical of 21CSS101J
+I-BIOTECH-B-BME,Fri,9,PPS LAB,MAPPING[high],Programming for Problem Solving practical of 21CSS101J

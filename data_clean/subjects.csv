@@ -1,0 +1,122 @@
+section_id,slot,subject_code,subject_name,ltpc,L,T,P,credits,faculty,designation
+IV-ECE-A,A,21GNH401T,Behavioural Psychology,2-1-0-3,2.0,1.0,0.0,3.0,Dr.A.Anand,AP/ECE
+IV-ECE-A,B,21ECC401T,Wireless Communication and Antenna Systems,3-0-0-3,3.0,0.0,0.0,3.0,Dr.K.Vigneshwaran,AP/ECE
+IV-ECE-A,C,21ECC402P,Computer Communication and Network Security,2-1-0-3,2.0,1.0,0.0,3.0,Dr.S.Jeevanantham,AP/ECE-DS
+IV-ECE-A,D,21ECE461T,Semiconductor Memory Design,3-0-0-3,3.0,0.0,0.0,3.0,Dr. H.SriBhuvaneshwari,AP/ECE
+IV-ECE-A,E,21ECE463T,Scripting Language for Electronic Design Automation,3-0-0-3,3.0,0.0,0.0,3.0,Dr. Sreenivasa Rao Ijada,Prof/ECE
+IV-ECE-A,F,21CSO355T,Machine learning for all,3-0-0-3,3.0,0.0,0.0,3.0,Dr.N.Prasanna Venkatesh,AP/BME
+IV-ECE-A,LAB,21ECC402P,Computer Communication and Network Security,2-1-0-3,2.0,1.0,0.0,3.0,Mrs.T.Swetha,AP/ECE
+IV-ECE-B,A,21GNH401T,Behavioural Psychology,2-1-0-3,2.0,1.0,0.0,3.0,Dr.A.Annand,AP/ECE
+IV-ECE-B,B,21ECC401T,Wireless Communication and Antenna Systems,3-0-0-3,3.0,0.0,0.0,3.0,Dr.K.Vigneshwaran,AP/ECE
+IV-ECE-B,C,21ECC402P,Computer Communication and Network Security,2-1-0-3,2.0,1.0,0.0,3.0,Dr. R. Rajasekar,ASP & HOD ECE-DS
+IV-ECE-B,D,21ECE461T,Semiconductor Memory Design,3-0-0-3,3.0,0.0,0.0,3.0,Dr. H.SriBhuvaneshwari,AP/ECE
+IV-ECE-B,E,21ECE463T,Scripting Language for Electronic Design Automation,3-0-0-3,3.0,0.0,0.0,3.0,Dr. Sreenivasa Rao Ijada,Prof/ECE
+IV-ECE-B,F,21CSO355T,Machine learning for all,3-0-0-3,3.0,0.0,0.0,3.0,Dr.N.Prasanna Venkatesh,AP/BME
+IV-ECE-B,LAB,21ECC402P,Computer Communication and Network Security,2-1-0-3,2.0,1.0,0.0,3.0,Ms.T.Swetha,AP/ECE
+III-ECE-A,A,21MAB302T,Discrete Mathematics,3-1-0-4,3.0,1.0,0.0,4.0,New Faculty 3,AP/Maths
+III-ECE-A,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",3-1-0-4,3.0,1.0,0.0,4.0,Dr.M.Manikandan,AP/ECE
+III-ECE-A,C,21ECC303T,VLSI Design and Technology,3-0-0-3,3.0,0.0,0.0,3.0,Dr.M.Jothi,AP/ECE
+III-ECE-A,D,21ECE468T,System and Network on Chip,3-0-0-3,3.0,0.0,0.0,3.0,Dr.V. Manikandan,AP/ECE-DS
+III-ECE-A,E,21CSO355T,Machine learning for all,3-0-0-3,3.0,0.0,0.0,3.0,Dr. J.Jencia,AP/BME
+III-ECE-A,F,21GNP301L,Community connect,0-0-2-1,0.0,0.0,2.0,1.0,Dr.V .Rajesh / Dr. V.Bharathi,AP/ECE
+III-ECE-A,G,21PDM301L,Analytical and logical thinking skills,0-0-2-0,0.0,0.0,2.0,0.0,CDC / 625,
+III-ECE-A,H,21LEM301T,Indian Art Form,1-0-0-0,1.0,0.0,0.0,0.0,Dr.K.Vigneshwaran,AP/ECE
+III-ECE-A,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,0-0-4-2,0.0,0.0,4.0,2.0,Dr.M.Jothi & Dr. P. Murugapandiyan / Dr.V. Manikandan,AP/ECE; Prof./ECE; AP/ECE-DS
+III-ECE-B,A,21MAB302T,Discrete Mathematics,3-1-0-4,3.0,1.0,0.0,4.0,Dr.M.Thanga Rejini,AP/Maths
+III-ECE-B,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",3-1-0-4,3.0,1.0,0.0,4.0,Mrs. B. Abirami,EO/SRMIST
+III-ECE-B,C,21ECC303T,VLSI Design and Technology,3-0-0-3,3.0,0.0,0.0,3.0,Dr.R.Vinoth Raj,AP/ECE-DS
+III-ECE-B,D,21ECE468T,System and Network on Chip,3-0-0-3,3.0,0.0,0.0,3.0,Dr.V. Manikandan,AP/ECE-DS
+III-ECE-B,E,21CSO355T,Machine learning for all,3-0-0-3,3.0,0.0,0.0,3.0,Dr. J.Jencia,AP/BME
+III-ECE-B,F,21GNP301L,Community connect,0-0-2-1,0.0,0.0,2.0,1.0,Dr. H. Sudharsan / Ms. T.Swetha,AP/ECE
+III-ECE-B,G,21PDM301L,Analytical and logical thinking skills,0-0-2-0,0.0,0.0,2.0,0.0,CDC – 625,
+III-ECE-B,H,21LEM301T,Indian Art Form,1-0-0-0,1.0,0.0,0.0,0.0,Dr. A.Anand,AP/ECE
+III-ECE-B,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,0-0-4-2,0.0,0.0,4.0,2.0,Dr.Sreenivasa Ijada Rao / Dr. B. DeviSri & Dr. Prassanna Venkatesh,Prof./ECE; AP/ECE; AP/BME
+III-ECE-DS,A,21MAB302T,Discrete Mathematics,3-1-0-4,3.0,1.0,0.0,4.0,New faculty 2,AP/Maths
+III-ECE-DS,B,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques",3-1-0-4,3.0,1.0,0.0,4.0,Mrs. B. Abirami,EO/SRMIST
+III-ECE-DS,C,21ECC303T,VLSI Design and Technology,3-0-0-3,3.0,0.0,0.0,3.0,Dr.R.Vinoth Raj,AP/ECE-DS
+III-ECE-DS,D,21CSO355T,Machine learning for all,3-0-0-3,3.0,0.0,0.0,3.0,Dr. Dr.Chitra Devi,ASP/SoC
+III-ECE-DS,E,21ECE371T,Database Design and Management,3-0-0-3,3.0,0.0,0.0,3.0,Dr. S.Saraswathi,AP/SoC
+III-ECE-DS,F,21GNP301L,Community connect,0-0-2-1,0.0,0.0,2.0,1.0,Dr. S.Jeevanantham / Dr.V. Manikandan,AP/ECE-DS
+III-ECE-DS,G,21PDM301L,Analytical and logical thinking skills,0-0-2-0,0.0,0.0,2.0,0.0,CDC-625,
+III-ECE-DS,H,21LEM301T,Indian Art Form,1-0-0-0,1.0,0.0,0.0,0.0,Dr.Prabin Kumar Bera,AP/ECE
+III-ECE-DS,LAB,21ECC311L,VLSI Design/ Microprocessor Laboratory,0-0-4-2,0.0,0.0,4.0,2.0,Dr. R. Vinothraj / Dr. H. Sri Bhuvaneshwari,AP/ECE DS; AP/ECE
+III-BME,A,21MAB301T,Probability and Statistics,3-1-0-4,3.0,1.0,0.0,4.0,Dr. K. M. Karuppusamy,AP/Maths
+III-BME,B,21BMC302J,Microcontrollers and Its Application in Medicine,3-0-2-4,3.0,0.0,2.0,4.0,Dr.K.Vigneshwaran,ASP/ECE
+III-BME,C,21BMC301J,Biomedical Signal Processing,3-0-2-4,3.0,0.0,2.0,4.0,Dr. V.N. Senthilkumaran,ASP & HOD / ECE
+III-BME,D,21BME266T,Biometrics,3-0-0-3,3.0,0.0,0.0,3.0,Dr. G. Gifta,AP/BME
+III-BME,E,21ECO103T,Modern wireless communication system,3-0-0-3,3.0,0.0,0.0,3.0,Dr. Vaishnavi,AP/ECE
+III-BME,F,21BMC303T,Principles of Medical Imaging,3-0-0-3,3.0,0.0,0.0,3.0,Dr.N.Prasana venkatesh,AP/BME
+III-BME,G,21PDM301L,Analytical and Logical Thinking Skills,0-0-2-0,0.0,0.0,2.0,0.0,CDC-625,
+III-BME,H,21LEM301T,Indian Art Form,1-0-0-0,1.0,0.0,0.0,0.0,Dr. G. Gifta,AP/BME
+III-BME,I,21GNP301L,Community Connect,0-0-2-1,0.0,0.0,2.0,1.0,Dr. J.Jencia / Dr.N.Prasanna Venkatesh,AP/BME
+II-BME,A,21MAB201T,Transforms and Boundary Value Problems,3-1-0-4,3.0,1.0,0.0,4.0,Dr.A.Manickam,ASP/MAT
+II-BME,B,21BMC202T,Biomedical Signals and Systems,3-0-0-3,3.0,0.0,0.0,3.0,Dr. Senthil Kumaran V N,ASP & HOD / ECE
+II-BME,C,21BMC203J,Electric and Electronic Circuits,3-0-2-4,3.0,0.0,2.0,4.0,Dr. Prabin Kumar Bera,AP/ECE
+II-BME,D,21BMC204J,Digital Logic for Medical Systems,2-0-2-3,2.0,0.0,2.0,3.0,Dr. G. Gifta,AP/BME
+II-BME,E,21PYS202T,Medical Physics,3-0-0-3,3.0,0.0,0.0,3.0,Dr.D.Rajeswari,ASP/PHY
+II-BME,F,21LEM201T,Professional Ethics,1-0-0-0,1.0,0.0,0.0,0.0,Dr. H.SriBhuvaneshwari,AP/ECE
+II-BME,G,21LEM202T,Universal Human Values-II,2-1-0-3,2.0,1.0,0.0,3.0,Mrs.N.Suganthi,RS - ECE
+II-BME,H,21PDM201L,Verbal Reasoning,0-0-2-0,0.0,0.0,2.0,0.0,CDC-TB-106,
+II-BME,I,21PDH201T,Social Engineering,2-0-0-2,2.0,0.0,0.0,2.0,Mrs. Francis Arockiya Mary,RS - EEE
+II-ECE-DS-A,A,21MAB201T,Transforms and Boundary Value Problems,3-1-0-4,3.0,1.0,0.0,4.0,Dr.C. Arun Kumar,AP/Maths
+II-ECE-DS-A,B,21ECC201T,Solid State Devices,3-0-0-3,3.0,0.0,0.0,3.0,Dr. Jeevanantham S,AP/ECE-DS
+II-ECE-DS-A,C,21CSS201T,Computer Organization and Architecture,3-1-0-4,3.0,1.0,0.0,4.0,Dr. P. Murugapandiyan,Prof./ECE
+II-ECE-DS-A,D,21ECC203T,Digital Logic Design,3-0-0-3,3.0,0.0,0.0,3.0,Dr.S.Krishnakumar,AP/ECE-DS
+II-ECE-DS-A,E,21ECC205T,Electromagnetic Theory and Interference,3-0-0-3,3.0,0.0,0.0,3.0,Dr.V. Bharathi,AP/ECE
+II-ECE-DS-A,F,21LEM201T,Professional Ethics,1-0-0-0,1.0,0.0,0.0,0.0,Dr. Jothi M,AP/ECE
+II-ECE-DS-A,G,21LEM202T,Universal Human Values-II,2-1-0-3,2.0,1.0,0.0,3.0,Mrs.N.Suganthi,RS - ECE
+II-ECE-DS-A,H,21PDM201L,Verbal Reasoning,0-0-2-0,0.0,0.0,2.0,0.0,CDC – TB -106,
+II-ECE-DS-A,I,21PDH209T,Social Engineering,2-0-0-2,2.0,0.0,0.0,2.0,Mrs.D. Lavanya,RS - ECE
+II-ECE-DS-A,LAB,21ECC211L,Devices and Digital IC Laboratory,0-0-4-2,0.0,0.0,4.0,2.0,Dr. Jeevanantham S / Dr.V. Bharathi,AP/ECE-DS; AP/ECE
+II-ECE-DS-B,A,21MAB201T,Transforms and Boundary Value Problems,3-1-0-4,3.0,1.0,0.0,4.0,NEW FACULTY 3,AP/MAT
+II-ECE-DS-B,B,21ECC201T,Solid State Devices,3-0-0-3,3.0,0.0,0.0,3.0,Dr. Jeevanantham S,AP/ECE DS
+II-ECE-DS-B,C,21CSS201T,Computer Organization and Architecture,3-1-0-4,3.0,1.0,0.0,4.0,Dr. P. Murugapandiyan,Prof./ECE
+II-ECE-DS-B,D,21ECC203T,Digital Logic Design,3-0-0-3,3.0,0.0,0.0,3.0,Dr.S.Krishnakumar,AP/ECE DS
+II-ECE-DS-B,E,21ECC205T,Electromagnetic Theory and Interference,3-0-0-3,3.0,0.0,0.0,3.0,Dr.V. Bharathi,AP/ECE
+II-ECE-DS-B,F,21LEM201T,Professional Ethics,1-0-0-0,1.0,0.0,0.0,0.0,Dr. K. Vigneshwaran,AP/ECE
+II-ECE-DS-B,G,21LEM202T,Universal Human Values-II,2-1-0-3,2.0,1.0,0.0,3.0,Mrs.D.Lavanya,RS - ECE
+II-ECE-DS-B,H,21PDM201L,Verbal Reasoning,0-0-2-0,0.0,0.0,2.0,0.0,CDC-TB-106,
+II-ECE-DS-B,I,21PDH209T,Social Engineering,2-0-0-2,2.0,0.0,0.0,2.0,Mrs.D. Lavanya,RS - ECE
+II-ECE-DS-B,LAB,21ECC211L,Devices and Digital IC Laboratory,0-0-4-2,0.0,0.0,4.0,2.0,Dr.S.Krishnakumar,AP/ECE DS
+I-ECE-A,German,21LEH104T,German,2-1-0-3,2.0,1.0,0.0,3.0,Mr. Selva,German
+I-ECE-A,E,21GNH101J,Philosophy of Engineering,1-0-2-2,1.0,0.0,2.0,2.0,Dr. R. Aarthi,AP/Phy
+I-ECE-A,A,21MAB102T,Advanced Calculus and Complex Analysis,3-1-0-4,3.0,1.0,0.0,4.0,Dr. R. Ragul,AP / Maths
+I-ECE-A,B,21CYB101J,Chemistry,3-1-2-5,3.0,1.0,2.0,5.0,Dr. P. Pachamuthu,AP/Che
+I-ECE-A,C,21BTB102J,Electronic System and PCB Design,2-0-0-2,2.0,0.0,0.0,2.0,Dr. U. Shajith Ali,Asso.Prof/EEE
+I-ECE-A,D,21CSS101J,Programming for Problem Solving,3-0-2-4,3.0,0.0,2.0,4.0,Dr. A. Rama Prasath,Asso.Prof/CA
+I-ECE-A,Workshop,21MES101L,Basic Civil and Mechanical Workshop,0-0-4-2,0.0,0.0,4.0,2.0,Dr. N.S. Balaji; Dr. M. Kumaran,Asst.Prof/Mech
+I-ECE-A,CDC,21PDM102L,General Aptitude,0-0-2-0,0.0,0.0,2.0,0.0,Mr. Sivanandhan,Communication Trainer
+I-ECE-A,NSS,21GNM102L,NSS,0-0-2-0,0.0,0.0,2.0,0.0,Dr. R. Manickam,Physical Director
+I-ECE-A,F,21BTB103T,Biology,2-0-0-2,2.0,0.0,0.0,2.0,Dr. M. Jaya Priya,AP/Biotech.
+I-ECE-B-EEE,German,21LEH104T,German,2-1-0-3,2.0,1.0,0.0,3.0,Mr. Selva,German
+I-ECE-B-EEE,E,21GNH101J,Philosophy of Engineering,1-0-2-2,1.0,0.0,2.0,2.0,Dr. R. Aarthi,AP/Phy
+I-ECE-B-EEE,A,21MAB102T,Advanced Calculus and Complex Analysis,3-1-0-4,3.0,1.0,0.0,4.0,Dr. M. Deepa,AP / Maths
+I-ECE-B-EEE,B,21CYB101J,Chemistry,3-1-2-5,3.0,1.0,2.0,5.0,Dr. N. Prabhu,AP/Che
+I-ECE-B-EEE,F,21BTB102J,Electronic System and PCB Design (for ECE),MISSING,,,,,Dr. U. Shajith Ali,Asso.Prof./EEE
+I-ECE-B-EEE,D,21CSS101J,Programming for Problem Solving,3-0-2-4,3.0,0.0,2.0,4.0,Dr. A. Rama Prasath,Asso.Prof./CA
+I-ECE-B-EEE,Workshop,21MES101L,Basic Civil and Mechanical Workshop,0-0-4-2,0.0,0.0,4.0,2.0,Dr. Modasir MD Khan; Mr.M.Karthikeyan,AP/Mech
+I-ECE-B-EEE,CDC,21PDM102L,General Aptitude,0-0-2-0,0.0,0.0,2.0,0.0,Mrs. Thenmozhi,Communication Trainer
+I-ECE-B-EEE,NSS,21GNM102L,NSS,0-0-2-0,0.0,0.0,2.0,0.0,Dr. R. Manickam,Physical Director
+I-ECE-B-EEE,C,21BTB103T,Biology,2-0-0-2,2.0,0.0,0.0,2.0,Dr. M. Jaya Priya,AP/Biotech.
+I-ECE-B-EEE,G,21EEC101J,Electrical Circuits (for EEE),MISSING,,,,,Dr.Dheepanchakkravarthy,Asso.Prof/EEE
+I-ECE-DS,German,21LEH104T,German,2-1-0-3,2.0,1.0,0.0,3.0,Mr. Selva,German
+I-ECE-DS,E,21GNH101J,Philosophy of Engineering,1-0-2-2,1.0,0.0,2.0,2.0,Dr. R. Ramesh,Asso.Prof./Mech
+I-ECE-DS,A,21MAB102T,Advanced Calculus and Complex Analysis,3-1-0-4,3.0,1.0,0.0,4.0,Dr. Pandiyarajan,AP / Maths
+I-ECE-DS,B,21CYB101J,Chemistry,3-1-2-5,3.0,1.0,2.0,5.0,Dr. Ujjwala,AP/Che
+I-ECE-DS,C,21BTB102J,Electronic System and PCB Design,2-0-0-2,2.0,0.0,0.0,2.0,Dr. V.N.Senthil Kumaran,Asso.Prof/ECE
+I-ECE-DS,D,21CSS101J,Programming for Problem Solving,3-0-2-4,3.0,0.0,2.0,4.0,Mrs. R. Sharanya,AP/CSE
+I-ECE-DS,Workshop,21MES101L,Basic Civil and Mechanical Workshop,0-0-4-2,0.0,0.0,4.0,2.0,Dr. Sakthibalan; Dr. MD Modasir Khan,AP/Mech
+I-ECE-DS,CDC,21PDM102L,General Aptitude,0-0-2-0,0.0,0.0,2.0,0.0,Mr. Sivanandhan,Communication Trainer
+I-ECE-DS,NSS,21GNM102L,NSS,0-0-2-0,0.0,0.0,2.0,0.0,Dr. R. Manickam,Physical Director
+I-ECE-DS,F,21BTB103T,Biology,2-0-0-2,2.0,0.0,0.0,2.0,Dr.M.Maria Leena,AP/Biotech.
+I-BIOTECH-B-BME,Japanese,21LEH105T,Japanese,2-1-0-3,2.0,1.0,0.0,3.0,Mr. Nadeem,Japanese
+I-BIOTECH-B-BME,E,21GNH101J,Philosophy of Engineering,1-0-2-2,1.0,0.0,2.0,2.0,Dr. J. Ramya Parkavi,AP/Phy
+I-BIOTECH-B-BME,A,21MAB102T,Advanced Calculus and Complex Analysis,3-1-0-4,3.0,1.0,0.0,4.0,Dr. R. Suresh,AP / Maths
+I-BIOTECH-B-BME,B,21CYB101J,Chemistry,3-1-2-5,3.0,1.0,2.0,5.0,Dr. R. Logudurai,AP/Che
+I-BIOTECH-B-BME,D,21CSS101J,Programming for Problem Solving,3-0-2-4,3.0,0.0,2.0,4.0,Dr. B. Chitradevi,AP/CSE
+I-BIOTECH-B-BME,C,21BTC105T,Cell biology (for Biotech),2-0-0-2,2.0,0.0,0.0,2.0,Dr. Daniel Paul,AP/Biotech.
+I-BIOTECH-B-BME,Workshop,21MES101L,Basic Civil and Mechanical Workshop,0-0-4-2,0.0,0.0,4.0,2.0,Dr.R.Manimaran; Dr.R.Ramesh,AP/Mech; Asso.Prof/Mech
+I-BIOTECH-B-BME,CDC,21PDM102L,General Aptitude,0-0-2-0,0.0,0.0,2.0,0.0,Mr. Sivanandhan,Communication Trainer
+I-BIOTECH-B-BME,YOGA,21GNM101L,Physical and Mental Health using Yoga,0-0-2-0,0.0,0.0,2.0,0.0,Ms. Balasivapriya,Physical Instructor
+I-BIOTECH-B-BME,F,21BTC101T,Biochemistry (for Biotech),3-0-0-3,3.0,0.0,0.0,3.0,Dr. M. Jaya Priya,AP/Biotech.
+I-BIOTECH-B-BME,G,21BTB104T,Biology: Human physiology and anatomy (only for Biomedical Engineering),2-0-0-2,2.0,0.0,0.0,2.0,,

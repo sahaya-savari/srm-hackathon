@@ -1,0 +1,65 @@
+section_id,issue,severity,detail
+I-BIOTECH-B-BME,CONTACT_HOURS_MISMATCH,high,21BTB104T (G) scheduled 0.5/wk vs L+T+P=2 (2-0-0-2)
+I-BIOTECH-B-BME,CONTACT_HOURS_MISMATCH,medium,21BTC101T (F) scheduled 2.5/wk vs L+T+P=3 (3-0-0-3)
+I-BIOTECH-B-BME,CONTACT_HOURS_MISMATCH,medium,21BTC105T (C) scheduled 2.5/wk vs L+T+P=2 (2-0-0-2)
+I-BIOTECH-B-BME,CONTACT_HOURS_MISMATCH,high,21LEH105T (Japanese) scheduled 6/wk vs L+T+P=3 (2-1-0-3)
+I-BIOTECH-B-BME,CONTACT_HOURS_MISMATCH,medium,21PDM102L (CDC) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+I-ECE-A,CONTACT_HOURS_MISMATCH,high,21BTB102J (C) scheduled 4/wk vs L+T+P=2 (2-0-0-2)
+I-ECE-A,CONTACT_HOURS_MISMATCH,high,21LEH104T (German) scheduled 6/wk vs L+T+P=3 (2-1-0-3)
+I-ECE-A,CONTACT_HOURS_MISMATCH,medium,21PDM102L (CDC) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+I-ECE-B-EEE,LTPC_MISSING,medium,21BTB102J Electronic System and PCB Design (for ECE): no L-T-P-C printed
+I-ECE-B-EEE,LTPC_MISSING,medium,21EEC101J Electrical Circuits (for EEE): no L-T-P-C printed
+I-ECE-B-EEE,CONTACT_HOURS_MISMATCH,high,21LEH104T (German) scheduled 6/wk vs L+T+P=3 (2-1-0-3)
+I-ECE-B-EEE,CONTACT_HOURS_MISMATCH,medium,21PDM102L (CDC) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+I-ECE-DS,CONTACT_HOURS_MISMATCH,high,21BTB102J (C) scheduled 4/wk vs L+T+P=2 (2-0-0-2)
+I-ECE-DS,CONTACT_HOURS_MISMATCH,medium,21CSS101J (D) scheduled 6/wk vs L+T+P=5 (3-0-2-4)
+I-ECE-DS,CONTACT_HOURS_MISMATCH,high,21LEH104T (German) scheduled 6/wk vs L+T+P=3 (2-1-0-3)
+I-ECE-DS,CONTACT_HOURS_MISMATCH,medium,21PDM102L (CDC) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+II-BME,CONTACT_HOURS_MISMATCH,medium,21BMC204J (D) scheduled 5/wk vs L+T+P=4 (2-0-2-3)
+II-BME,CONTACT_HOURS_MISMATCH,medium,21PDM201L (H) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+II-ECE-DS-A,CONTACT_HOURS_MISMATCH,medium,21PDM201L (H) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+II-ECE-DS-B,CONTACT_HOURS_MISMATCH,medium,21PDM201L (H) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+III-BME,CONTACT_HOURS_MISMATCH,medium,21PDM301L (G) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+III-ECE-A,CONTACT_HOURS_MISMATCH,medium,21PDM301L (G) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+III-ECE-B,CONTACT_HOURS_MISMATCH,medium,21PDM301L (G) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+III-ECE-DS,CONTACT_HOURS_MISMATCH,medium,21PDM301L (G) scheduled 3/wk vs L+T+P=2 (0-0-2-0)
+IV-ECE-A,CONTACT_HOURS_MISMATCH,medium,"21ECC402P (C,LAB) scheduled 4/wk vs L+T+P=3 (2-1-0-3)"
+IV-ECE-B,CONTACT_HOURS_MISMATCH,medium,"21ECC402P (C,LAB) scheduled 4/wk vs L+T+P=3 (2-1-0-3)"
+IV-ECE-A,DUPLICATE_CODE_IN_TABLE,low,"21ECC402P listed under slots ['C', 'LAB'] (theory+lab rows)"
+IV-ECE-B,DUPLICATE_CODE_IN_TABLE,low,"21ECC402P listed under slots ['C', 'LAB'] (theory+lab rows)"
+*,CODE_VARIANT,medium,"'social engineering' has codes ['21PDH201T', '21PDH209T'] in ['II-BME', 'II-ECE-DS-A', 'II-ECE-DS-B']"
+III-ECE-DS,FACULTY_NAME_TYPO,low,'Dr. Dr.Chitra Devi' (duplicated title)
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr. Prabin Kumar Bera', 'Dr.Prabin Kumar Bera']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr. Prassanna Venkatesh', 'Dr.N.Prasana venkatesh', 'Dr.N.Prasanna Venkatesh']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Mrs.T.Swetha', 'Ms. T.Swetha', 'Ms.T.Swetha']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['NEW FACULTY 3', 'New Faculty 3', 'New faculty 2']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr. A.Anand', 'Dr.A.Anand']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr.M.Manikandan', 'Dr.V. Manikandan']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr. H. Sri Bhuvaneshwari', 'Dr. H.SriBhuvaneshwari']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr. S.Jeevanantham', 'Dr.S.Jeevanantham']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Mrs.D. Lavanya', 'Mrs.D.Lavanya']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['CDC', 'CDC – 625', 'CDC-625']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr. V.Bharathi', 'Dr.V. Bharathi']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['CDC – TB -106', 'CDC-TB-106']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr. K. Vigneshwaran', 'Dr.K.Vigneshwaran']"
+*,FACULTY_NAME_VARIANT,low,"possible same person: ['Dr. R. Vinothraj', 'Dr.R.Vinoth Raj']"
+I-ECE-A,STALE_TIMETABLE,critical,page 1 of 'I year Time Table SEEE.pdf' is academic year 2024-25 (semester_type='Odd'); not valid for the 29-Aug-2026..29-Nov-2026 semester
+I-ECE-B-EEE,STALE_TIMETABLE,critical,page 2 of 'I year Time Table SEEE.pdf' is academic year 2024-25 (semester_type='Odd'); not valid for the 29-Aug-2026..29-Nov-2026 semester
+I-ECE-DS,STALE_TIMETABLE,critical,page 3 of 'I year Time Table SEEE.pdf' is academic year 2024-25 (semester_type='EVEN (header) vs Sem I (body)'); not valid for the 29-Aug-2026..29-Nov-2026 semester
+I-BIOTECH-B-BME,STALE_TIMETABLE,critical,page 4 of 'I year Time Table SEEE.pdf' is academic year 2024-25 (semester_type='EVEN (header) vs Sem I (body)'); not valid for the 29-Aug-2026..29-Nov-2026 semester
+I-ECE-*,FILE_SECTION_MISMATCH,high,"'I year Time Table SEEE.pdf' holds 4 section timetables (I ECE-A; I ECE-B+EEE; I ECE-DS; I Biotech-B+BME), not one"
+"I-ECE-DS,I-BIOTECH-B-BME",HEADER_CONTRADICTION,high,header says 'EVEN SEMESTER (2024-25)' but body says Year/Sem I/I
+I-*,DIFFERENT_BELL_SCHEDULE,high,I-year grid uses 9.55/10.50/11.45/12.35 bells and no fixed lunch; 2026-27 grids use 9.50/10.50/11.40/12.30 with lunch in P5
+"I-ECE-B-EEE,I-ECE-DS",CLASS_IN_LUNCH_PERIOD,medium,"classes placed in period 5 (12.35-1.30), e.g. 'PPS LAB IST618', 'German'"
+I-*,HANDWRITTEN_EDITS,medium,"18 period-cells come from handwritten annotations (room numbers, labs, NSS)"
+I-ECE-DS,FADED_CELL,medium,Fri P4 'PPS LAB' printed faded/grey — possibly withdrawn; kept but flagged
+"III-ECE-A,III-ECE-DS,II-ECE-DS-B",PLACEHOLDER_FACULTY,low,Maths faculty listed as 'New Faculty 2/3' (not yet assigned)
+I-BIOTECH-B-BME,MISSING_FACULTY,low,slot G 21BTB104T has no faculty / designation
+I-*,SLOT_LETTERS_NOT_STABLE,high,"slot letter meaning changes between I-year pages (C = PCB Design on p1/p3, Biology on p2, Cell Biology on p4)"
+IV-ECE-B,HEADER_TYPO,low,period-1 time printed '09.000 / 9.50'
+"IV-ECE-A,IV-ECE-B",LAB_WITHOUT_P_CREDIT,medium,21ECC402P has a LAB row and a 1-period lab/week but L-T-P-C = 2-1-0-3 (P=0)
+II-BME,AMBIGUOUS_BATCH_LAB,high,'DLMS/EEC' 2x2-period labs: per-student course mapping for each day is UNKNOWN (batch rotation)
+III-ECE-*,PROJECT_HOUR_LABEL,medium,'B-Proj' cell interpreted as slot-B project hour (needs confirmation)
+III-BME,LAB_LABEL_NOT_SLOT,medium,'MPMC LAB' / 'BIO DSP LAB' mapped to slots B / C by name
+ALL,SATURDAY_UNSPECIFIED,high,Semester spans 29-Aug (Sat) to 29-Nov (Sun); grids cover Mon-Fri only. Saturday instruction / day-order working days are UNKNOWN
+ALL,NO_HOLIDAY_CALENDAR,critical,"No academic calendar, holidays, exam weeks or cancellations supplied — only scheduled occurrences can be modelled"
