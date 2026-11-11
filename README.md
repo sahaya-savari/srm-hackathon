@@ -1,4 +1,4 @@
-# Attendance Predictor — VibeCraft 2026 (Round 1: The Overworld)
+# Attendance Predictor - VibeCraft 2026 (Round 1: The Overworld)
 
 > **Event:** VibeCraft 2026 (Neuro Tech Titans × YUVA'26, SRM IST Tiruchirappalli)  
 > **Challenge:** Smart Attendance Dashboard & Decision Engine (Semester: 29 Aug 2026 → 29 Nov 2026)
